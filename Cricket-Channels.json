@@ -1,18 +1,18 @@
 {
  
 
-"IPL" :[
+"Event 1" :[
    {
     "ChannelName" : "Hindi Source",
     "ChannelUrl" : "http://iframe.crik.live/star-1/1.html",
-    "EventName" : "IPL",
+    "EventName" : "Event 1",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   },
   {
     "ChannelName" : "Hindi Source 2",
     "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=starhindi&vw=100%&vh=520",
-    "EventName" : "IPL",
+    "EventName" : "Event 1",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please close the ad",
     "watched" : 0
@@ -20,7 +20,7 @@
   {
     "ChannelName" : "Hindi Source HD",
     "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
-    "EventName" : "IPL",
+    "EventName" : "Event 1",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button",
     "watched" : 0
@@ -28,76 +28,76 @@
   {
     "ChannelName" : "Source 1",
     "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=skysmixx&vw=835&vh=470",
-    "EventName" : "IPL",
+    "EventName" : "Event 1",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   },
    {
     "ChannelName" : "Source 2",
     "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
-    "EventName" : "IPL",
+    "EventName" : "Event 1",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
   },
    {
     "ChannelName" : "Source 3",
     "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
-    "EventName" : "IPL",
+    "EventName" : "Event 1",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
   },
   {
     "ChannelName" : "Source 4",
     "ChannelUrl" : "https://hdcast123.com/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
-    "EventName" : "IPL",
+    "EventName" : "Event 1",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please close the ad"
   }
 ],
 
-"PTV Sports" : [  
+"Event 2" : [  
    {
   "ChannelName" : "Source 1",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/2",
-  "EventName" : "PTV Sports",
+  "EventName" : "Event 2",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
 },
  {
   "ChannelName" : "Source 2",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
-  "EventName" : "PTV Sports",
+  "EventName" : "Event 2",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 },
  {
   "ChannelName" : "Source 3",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
-  "EventName" : "PTV Sports",
+  "EventName" : "Event 2",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
 },
 {
   "ChannelName" : "Source 4",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/1.html",
-  "EventName" : "PTV Sports",
+  "EventName" : "Event 2",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 }
 ],
-"Ten Sports" : 
+"Event 3" : 
 [
   {
     "ChannelName" : "Source 1",
     "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
-    "EventName" : "Ten Sports",
+    "EventName" : "Event 3",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   }, 
    {
     "ChannelName" : "Source 2",
     "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
-    "EventName" : "Ten Sports",
+    "EventName" : "Event 3",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
   }
