@@ -4,17 +4,17 @@
 
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "IPL",
+    "EventName" : "Event 1",
     "Url" : "https://bighra.tk/Cricket-Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "PTV Sports",
+    "EventName" : "Event 2",
     "Url" : "https://bighra.tk/Cricket-Channels.json"
   },
 {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports",
+    "EventName" : "Event 3",
   "Url" : "https://bighra.tk/Cricket-Channels.json"
   }
 ]
