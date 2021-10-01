@@ -10,14 +10,6 @@
     "Toast" : "Please tap on Play Button"
   },
   {
-    "ChannelName" : "Hindi Source 2",
-    "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=starhindi&vw=100%&vh=520",
-    "EventName" : "Event 1",
-    "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please close the ad",
-    "watched" : 0
-  },
-  {
     "ChannelName" : "Hindi Source HD",
     "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
     "EventName" : "Event 1",
@@ -32,12 +24,13 @@
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   },
-   {
+    {
     "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
+    "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=starhindi&vw=100%&vh=520",
     "EventName" : "Event 1",
-    "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please tap on Play Button"
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please close the ad",
+    "watched" : 0
   },
    {
     "ChannelName" : "Source 3",
