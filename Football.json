@@ -1,0 +1,26 @@
+{
+"Football": [
+    {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "UEFA",
+  "Url" : "https://crik.live/Football_Channels.json"
+  },
+    {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Sky Sports Football",
+  "Url" : "https://crik.live/Football_Channels.json"
+  },
+    {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Ten Sports",
+  "Url" : "https://crik.live/Football_Channels.json"
+  }
+],
+  "Sky Football" [
+  {
+  "EventImage" : "file:///android_asset/sky_football.jpg",
+  "EventName" : "Sky Sports Football",
+  "Url" : "https://bighra.tk/Football_Channels.json"
+}
+]
+}
