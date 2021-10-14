@@ -16,7 +16,7 @@
   "Url" : "https://crik.live/Football_Channels.json"
   }
 ],
-  "Sky Football" [
+  "Sky Football" : [
   {
   "EventImage" : "file:///android_asset/sky_football.jpg",
   "EventName" : "Sky Sports Football",
