@@ -3,13 +3,13 @@
 "Cricket": [
 
   {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "IPL",
+    "EventImage" : "file:///android_asset/24-news.jpg",
+    "EventName" : "24 News",
     "Url" : "https://crik.live/Channels.json"
   },
   {
-    "EventImage" : "http://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
+    "EventImage" : "http://crik.live/pics/92-news.jpg",
+    "EventName" : "92 News",
     "Url" : "https://crik.live/Channels.json"
   }
   
