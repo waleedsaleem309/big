@@ -22,7 +22,7 @@
   "Star": [
 
     {
-    "EventImage" : "file:///android_asset/T20.png",
+    "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
     "Url" : "https://crik.live/Channels.json"
   },
@@ -55,7 +55,7 @@
   "Pak Cricket": [
 
     {
-    "EventImage" : "file:///android_asset/T20.png",
+    "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
     "Url" : "https://crik.live/Channels.json"
   },
@@ -90,7 +90,7 @@
   "T20": [
 
   {
-    "EventImage" : "file:///android_asset/T20.png",
+    "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
     "Url" : "https://crik.live/Channels.json"
   }
