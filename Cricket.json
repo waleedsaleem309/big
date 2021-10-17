@@ -4,18 +4,18 @@
 
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 1",
-    "Url" : "https://bighra.tk/Cricket-Channels.json"
+    "EventName" : "T20 World Cup",
+    "Url" : "https://crik.live/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 2",
-    "Url" : "https://bighra.tk/Cricket-Channels.json"
+    "EventName" : "PTV Sports",
+    "Url" : "https://crik.live/Channels.json"
   },
 {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 3",
-  "Url" : "https://bighra.tk/Cricket-Channels.json"
+    "EventName" : "Ten Sports",
+  "Url" : "https://crik.live/Channels.json"
   }
 ]
 }
