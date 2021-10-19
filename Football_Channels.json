@@ -6,7 +6,7 @@
     "ChannelUrl" : "http://iframe.crik.live/bt-1/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
   "BT Sports 2" : 
@@ -16,7 +16,7 @@
     "ChannelUrl" : "http://iframe.crik.live/bt-2/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
     "BT Sports 3" : 
@@ -26,24 +26,17 @@
     "ChannelUrl" : "http://iframe.crik.live/bt-3/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
 "Ten Sports" : 
 [
   {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
+    "ChannelUrl" : "http://iframe.crik.live/ten-sports/1.html",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
-  }, 
-   {
-    "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please tap on Play Button"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],"Sky Sports Football" : 
 [
@@ -52,21 +45,21 @@
     "ChannelUrl" : "http://iframe.crik.live/sky-football/3.html",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please unmute Channel"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   }, 
    {
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/sky-football/2.html",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please unmute Channel"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   },
     {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=skysfott&vw=100%&vh=520",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please unmute Channel"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
 "Sky Sports Main Event" : 
@@ -76,14 +69,14 @@
     "ChannelUrl" : "https://iframe.crik.live/sky-main/1",
     "EventName" : "Sky Sports Main Event",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please unmute Channel"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   }, 
    {
     "ChannelName" : "Source 2",
     "ChannelUrl" : "http://cricfree.live/update/skymain.php",
     "EventName" : "Sky Sports Main Event",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please unmute Channel"
+    "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
 "PTV Sports" : [  
@@ -122,28 +115,28 @@
   "ChannelUrl" : "http://iframe.crik.live/bt-2/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please unmute Channel"
+  "Toast" : "Please Play & UnMute Channel from Bottom"
 },
  {
   "ChannelName" : "BT Sports 3",
   "ChannelUrl" : "http://iframe.crik.live/bt-3/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please unmute Channel"
+  "Toast" : "Please Play & UnMute Channel from Bottom"
 },
 {
   "ChannelName" : "Super Sports Laliga",
   "ChannelUrl" : "http://iframe.crik.live/laliga/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please unmute Channel"
+  "Toast" : "Please Play & UnMute Channel from Bottom"
 },
 {
   "ChannelName" : "BT Sports 1",
   "ChannelUrl" : "http://iframe.crik.live/bt-1/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please unmute Channel"
+  "Toast" : "Please Play & UnMute Channel from Bottom"
 }
 ]
 }
