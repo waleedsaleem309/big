@@ -1,0 +1,19 @@
+{
+"Squid": [
+{
+    "EventImage" : "http://crik.live/pics/t20.png",
+    "EventName" : "T20 World Cup",
+    "Url" : "https://crik.live/Channels.json"
+  },
+  {
+    "EventImage" : "http://crik.live/pics/PTV-Sports.jpg",
+    "EventName" : "PTV Sports",
+    "Url" : "https://crik.live/Channels.json"
+  },
+  {
+    "EventImage" : "http://crik.live/pics/Ten-Sports.jpg",
+    "EventName" : "Ten Sports",
+    "Url" : "https://crik.live/Channels.json"
+  }
+]
+}
