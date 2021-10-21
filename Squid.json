@@ -10,7 +10,7 @@
   },
    {
     "ChannelName" : "Episode",
-    "ChannelUrl" : "https://ok.ru/video/editor/2842531269145",
+    "ChannelUrl" : "https://ok.ru/videoembed/2842531269145",
     "EventName" : "S1 Hindi E2",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Tap on Play Button and Wait",
@@ -26,7 +26,7 @@
   },
   {
     "ChannelName" : "Episode",
-    "ChannelUrl" : "https://ok.ru/video/editor/2842531203609",
+    "ChannelUrl" : "https://ok.ru/videoembed/2842531203609",
     "EventName" : "S1 Hindi E4",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Tap on Play Button and Wait",
