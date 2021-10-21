@@ -8,7 +8,38 @@
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please UnMute the Channel from Bottom"
   },
-  
+   {
+    "ChannelName" : "Episode",
+    "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
+    "EventName" : "S1 Hindi",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please UnMute the Channel from Bottom",
+    "watched" : 0
+  },
+  {
+    "ChannelName" : "Episode",
+    "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
+    "EventName" : "S1 Hindi",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please UnMute the Channel from Bottom",
+    "watched" : 0
+  },
+  {
+    "ChannelName" : "Episode",
+    "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
+    "EventName" : "S1 Hindi",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please UnMute the Channel from Bottom",
+    "watched" : 0
+  },
+  {
+    "ChannelName" : "Episode",
+    "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
+    "EventName" : "S1 Hindi",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please UnMute the Channel from Bottom",
+    "watched" : 0
+  },
   {
     "ChannelName" : "Episode",
     "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
