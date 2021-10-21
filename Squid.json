@@ -1,0 +1,42 @@
+{
+ 
+"Squid Game Hindi" :[
+   {
+    "ChannelName" : "Hindi Source",
+    "ChannelUrl" : "http://iframe.crik.live/star-1/1.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please UnMute the Channel from Bottom"
+  },
+  
+  {
+    "ChannelName" : "Hindi Source HD",
+    "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please UnMute the Channel from Bottom",
+    "watched" : 0
+  },
+   {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please UnMute the Channel from Bottom"
+  },
+   {
+    "ChannelName" : "Source 2",
+    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please UnMute the Channel from Bottom"
+  },
+  {
+    "ChannelName" : "Source 3",
+    "ChannelUrl" : "https://hdcast123.com/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
+    "EventName" : "IPL",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please close the ad"
+  }
+]
+}
