@@ -2,39 +2,39 @@
  
 "Squid Game Hindi" :[
    {
-    "ChannelName" : "Hindi Source",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/1.html",
-    "EventName" : "IPL",
+    "ChannelName" : "Episode",
+    "ChannelUrl" : "https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCgfPo/lODUDA/mkv/ChSarGzCN92UkabeSXMp4lKd8z7zSBAA.mkv?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2hIRx1RVUsDE1AWPTs1HTwiZF9gCFwOVCocShkKFzYLTlAWJQ00dClYJwkQZFoIdRBNABY&response-content-disposition=attachment;%20filename=%22S01%20E01.m3u8",
+    "EventName" : "S1 Hindi",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please UnMute the Channel from Bottom"
   },
   
   {
-    "ChannelName" : "Hindi Source HD",
+    "ChannelName" : "Episode",
     "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
-    "EventName" : "IPL",
+    "EventName" : "S1 Hindi",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please UnMute the Channel from Bottom",
     "watched" : 0
   },
    {
-    "ChannelName" : "Source 1",
+    "ChannelName" : "Episode",
     "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
-    "EventName" : "IPL",
+    "EventName" : "S1 Hindi",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please UnMute the Channel from Bottom"
   },
    {
-    "ChannelName" : "Source 2",
+    "ChannelName" : "Episode",
     "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
-    "EventName" : "IPL",
+    "EventName" : "S1 Hindi",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please UnMute the Channel from Bottom"
   },
   {
-    "ChannelName" : "Source 3",
+    "ChannelName" : "Episode",
     "ChannelUrl" : "https://hdcast123.com/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
-    "EventName" : "IPL",
+    "EventName" : "S1 Hindi",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please close the ad"
   }
