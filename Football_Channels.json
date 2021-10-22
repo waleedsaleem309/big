@@ -42,18 +42,11 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/sky-football/1.html",
+    "ChannelUrl" : "http://iframe.crik.live/sky-football/3.html",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please Play & UnMute Channel from Bottom"
   }, 
-   {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/sky-football/2.html",
-    "EventName" : "Sky Sports Football",
-    "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please Play & UnMute Channel from Bottom"
-  },
     {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=skysfott&vw=100%&vh=520",
