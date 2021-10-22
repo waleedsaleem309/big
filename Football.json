@@ -22,5 +22,12 @@
   "EventName" : "Sky Football",
   "Url" : "https://bighra.tk/Football_Channels.json"
 }
+],
+  "Laliga" : [
+  {
+  "EventImage" : "file:///android_asset/sky_football.jpg",
+  "EventName" : "Sky Football",
+  "Url" : "https://bighra.tk/Football_Channels.json"
+}
 ]
 }
