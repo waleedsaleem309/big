@@ -32,7 +32,7 @@
         "LaLiga Live" : 
 [
   {
-    "ChannelName" : "Source 1",
+    "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/laliga/1",
     "EventName" : "Laliga Live",
     "ImageUrl" : "file:///android_asset/img_1.png",
