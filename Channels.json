@@ -102,6 +102,13 @@
 ],
  "T20 World Cup" : 
 [
+          {
+  "ChannelName" : "Source ",
+  "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=ptvpk&vw=100%&vh=520",
+  "EventName" : "PTV Sports2",
+  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
+  "Toast" : "Please UnMute the Channel from Bottom"
+},
  {
   "ChannelName" : "Source ",
   "ChannelUrl" : "http://iframe.crik.live/a-sports/1",
@@ -109,13 +116,7 @@
   "ImageUrl" : "https://crik.live/pics/a-sports.jpg",
   "Toast" : "Please UnMute the Channel from Bottom"
 },
-       {
-  "ChannelName" : "Source ",
-  "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=ptvpk&vw=100%&vh=520",
-  "EventName" : "PTV Sports2",
-  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
-  "Toast" : "Please UnMute the Channel from Bottom"
-},
+
     {
   "ChannelName" : "Source ",
   "ChannelUrl" : "http://iframe.crik.live/ptv-sports/1",
