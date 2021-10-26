@@ -10,7 +10,7 @@
   
   {
     "ChannelName" : "Hindi Source HD",
-    "ChannelUrl" : "https://pkspeed.net/embed-fhe3jhd69pm3.html",
+    "ChannelUrl" : "http://iframe.crik.live/star-1/3",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please UnMute the Channel from Bottom",
@@ -59,7 +59,7 @@
   "Star Sports Hindi" :[
  {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/4.html",
+    "ChannelUrl" : "http://iframe.crik.live/star-1/3",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please UnMute the Channel from Bottom"
@@ -133,7 +133,7 @@
   },
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://iframe.crik.live/star-1/4",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/3",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "http://crik.live/pics/star-hindi.jpg",
     "Toast" : "Please UnMute the Channel from Bottom"
