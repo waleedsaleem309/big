@@ -70,13 +70,6 @@
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please UnMute the Channel from Bottom"
-  },
-  {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
   }
 ],
  "T20 World Cup" : 
@@ -123,13 +116,7 @@
     "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
     "Toast" : "Please UnMute the Channel from Bottom"
   },
-   {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/2",
-    "EventName" : "Sky Cricket",
-    "ImageUrl" : "https://crik.live/pics/sky-cricket.jpg",
-    "Toast" : "Please UnMute the Channel from Bottom"
-  },   {
+    {
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/willow/1",
     "EventName" : "Willow Cricket",
