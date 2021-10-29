@@ -2,7 +2,7 @@
 "IPL" :[
    {
     "ChannelName" : "Hindi Source",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/4.html",
+    "ChannelUrl" : "http://iframe.crik.live/star-1/1.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please UnMute the Channel from Bottom"
@@ -10,7 +10,7 @@
   
    {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://iframe.crik.live/star-sports/3.html",
+    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please UnMute the Channel from Bottom"
@@ -28,7 +28,7 @@
  "Star Sports" :[
    {
     "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://iframe.crik.live/star-sports/3.html",
+    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
     "EventName" : "Star Sports",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please UnMute the Channel from Bottom"
@@ -45,7 +45,7 @@
   "Star Sports Hindi" :[
  {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/4",
+    "ChannelUrl" : "http://iframe.crik.live/star-1/1",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please UnMute the Channel from Bottom"
@@ -102,13 +102,13 @@
  
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://iframe.crik.live/star-1/4.html",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/1.html",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "http://crik.live/pics/star-hindi.jpg",
     "Toast" : "Please UnMute the Channel from Bottom"
   },  {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://iframe.crik.live/star-sports/3.html",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/1.html",
     "EventName" : "Star Sports 1",
     "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
     "Toast" : "Please UnMute the Channel from Bottom"
