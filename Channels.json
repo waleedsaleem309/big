@@ -90,9 +90,9 @@
 
     "EventName" : "Ten Sports",
 
-    "ImageUrl" : "file:///android_asset/img_1.png",
+    "ImageUrl" : "http://crik.live/pics/Ten-Sports.jpg",
 
-    "Toast" : "Please UnMute the Channel from Bottom"
+"Toast" : "Please UnMute the Channel from Bottom"
 
   },
 
