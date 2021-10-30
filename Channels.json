@@ -74,6 +74,27 @@
 ],
  "T20 World Cup" : 
 [
+     {
+  "ChannelName" : "Source ",
+  "ChannelUrl" : "https://cricfree.live/update/cricket.php",
+  "EventName" : "Willow",
+  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
+  "Toast" : "Please Double Tap 👆 on Player for Full Screen"
+},
+     {
+  "ChannelName" : "Source ",
+  "ChannelUrl" : "https://cricfree.live/update/astrocricket.php",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
+  "Toast" : "Please Double Tap 👆 on Player for Full Screen"
+},
+     {
+  "ChannelName" : "Source ",
+  "ChannelUrl" : "https://cricfree.live/update/fox501.php",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
+  "Toast" : "Please Double Tap 👆 on Player for Full Screen"
+},
     {
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=ptvpk&vw=100%&vh=520",
