@@ -5,7 +5,7 @@
     "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please UnMute the Channel from Bottom"
+    "Toast" : "Please Double Tap on Play for Full Screen"
   },
   
    {
@@ -13,7 +13,7 @@
     "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please UnMute the Channel from Bottom"
+    "Toast" : "Please Double Tap on Play for Full Screen"
   },
  
   {
@@ -31,7 +31,7 @@
     "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
     "EventName" : "Star Sports",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please UnMute the Channel from Bottom"
+    "Toast" : "Please Double Tap on Play for Full Screen"
   },
   {
     "ChannelName" : "Source 3",
@@ -48,7 +48,7 @@
     "ChannelUrl" : "http://iframe.crik.live/star-1/a",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please UnMute the Channel from Bottom"
+    "Toast" : "Please Double Tap on Play for Full Screen"
   }
 ],
  
@@ -69,7 +69,7 @@
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/a",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please UnMute the Channel from Bottom"
+    "Toast" : "Please Double Tap on Play for Full Screen"
   }
 ],
  "T20 World Cup" : 
@@ -88,7 +88,7 @@
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/a",
     "EventName" : "Ten Sports",
     "ImageUrl" : "http://crik.live/pics/Ten-Sports.jpg",
-     "Toast" : "Please UnMute the Channel from Bottom"
+     "Toast" : "Please Double Tap on Play for Full Screen"
 
   },
 
@@ -118,7 +118,7 @@
     "ChannelUrl" : "http://iframe.crik.live/willow/1",
     "EventName" : "Willow Cricket",
     "ImageUrl" : "https://crik.live/pics/Willow.jpg",
-    "Toast" : "Please UnMute the Channel from Bottom"
+    "Toast" : "Please Double Tap on Play for Full Screen"
   }
 ],
 
