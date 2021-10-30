@@ -4,17 +4,17 @@
 {
     "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "PTV Sports",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Ten Sports",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   }
   
   
@@ -24,17 +24,17 @@
     {
     "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Star Sports",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Star Sports Hindi",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   }
   
 ],
@@ -43,12 +43,12 @@
     {
     "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/log.png",
     "EventName" : "PTV Sports",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   }
   
 ],
@@ -57,19 +57,19 @@
     {
     "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "PTV Sports",
     "Id" : "PTV Sports",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Ten Sports",
     "Id" : "Ten Sports",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   }
   
 ],
@@ -78,12 +78,12 @@
     {
     "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Ten Sports",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   }
   
 ],
@@ -92,7 +92,7 @@
   {
     "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
-    "Url" : "https://crik.live/Channels.json"
+    "Url" : "https://bighra.tk/Channels.json"
   }
   
 ]
