@@ -59,7 +59,7 @@
   "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please UnMute the Channel from Bottom"
+  "Toast" : "Please Double Tap on Play for Full Screen"
 }
 ],
 "Ten Sports" : 
@@ -77,10 +77,10 @@
   
  {
   "ChannelName" : "Source ",
-  "ChannelUrl" : "https://pkcast123.me/embed2.php?player=mobile&live=asportshd&vw=620&vh=490",
+  "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
   "EventName" : "A Sports",
   "ImageUrl" : "https://crik.live/pics/a-sports.jpg",
-  "Toast" : "Please UnMute the Channel from Bottom"
+  "Toast" : "Please Double Tap on Player for Full Screen"
 },
    {
 
