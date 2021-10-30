@@ -85,15 +85,15 @@
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://cricfree.live/update/cricket.php",
   "EventName" : "Willow",
-  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
+  "ImageUrl" : "https://crik.live/pics/t20.png",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
 },
 
      {
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://cricfree.live/update/fox501.php",
-  "EventName" : "PTV Sports",
-  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
+  "EventName" : "FOX Sports",
+  "ImageUrl" : "https://crik.live/pics/t20.png",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
 },
 
