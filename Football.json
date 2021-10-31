@@ -2,12 +2,7 @@
 "Football": [
     {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "UEFA",
-  "Url" : "https://crik.live/Football_Channels.json"
-  },
-    {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Sky Sports Football",
+    "EventName" : "Sky Football",
   "Url" : "https://crik.live/Football_Channels.json"
   },
     {
