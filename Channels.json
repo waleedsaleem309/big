@@ -81,6 +81,13 @@
   "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
 },
+       {
+  "ChannelName" : "Source ",
+  "ChannelUrl" : "http://iframe.crik.live/ten-sports/a.html",
+  "EventName" : "Ten Sports",
+  "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
+  "Toast" : "Please Double Tap 👆 on Player for Full Screen"
+},
      {
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://cricfree.live/update/cricket.php",
@@ -88,8 +95,6 @@
   "ImageUrl" : "https://crik.live/pics/t20.png",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
 },
-
-
    {
 
     "ChannelName" : "Source ",
