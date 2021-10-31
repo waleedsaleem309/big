@@ -74,6 +74,14 @@
 ],
  "T20 World Cup" : 
 [
+    {
+
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "https://crik.live/pics/a-sports.jpg",
+     "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+  },
        {
   "ChannelName" : "Source ",
   "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
@@ -95,15 +103,6 @@
   "ImageUrl" : "https://crik.live/pics/t20.png",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
 },
-   {
-
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "https://crik.live/pics/a-sports.jpg",
-     "Toast" : "Please Double Tap 👆 on Play for Full Screen"
-
-  },
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
