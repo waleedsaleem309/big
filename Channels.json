@@ -69,13 +69,18 @@
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/a",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+    "Toast" : "Please Double Tap 👆 on Play Button"
   }
 ],
  "T20 World Cup" : 
 [
-    {
-
+     "ChannelName" : "Source ",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/5.html",
+  "EventName" : "AU Sports",
+  "ImageUrl" : "https://crik.live/pics/t20.png",
+  "Toast" : "Please Tap 👆 on Player for Full Screen"
+},
+   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
     "EventName" : "Ten Sports",
@@ -89,6 +94,7 @@
   "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
 },
+   
        {
   "ChannelName" : "Source ",
   "ChannelUrl" : "http://iframe.crik.live/ten-sports/a.html",
