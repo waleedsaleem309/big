@@ -74,13 +74,7 @@
 ],
  "T20 World Cup" : 
 [
-   {
-     "ChannelName" : "Source ",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/5.html",
-  "EventName" : "AU Sports",
-  "ImageUrl" : "https://crik.live/pics/t20.png",
-  "Toast" : "Please Tap 👆 on Player for Full Screen"
-},
+
    {
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
