@@ -24,5 +24,12 @@
   "EventName" : "LaLiga Live",
   "Url" : "https://bighra.tk/Football_Channels.json"
 }
+],
+      "Premier" : [
+  {
+  "EventImage" : "file:///android_asset/sky_football.jpg",
+  "EventName" : "Premier League Live",
+  "Url" : "https://bighra.tk/Football_Channels.json"
+}
 ]
 }
