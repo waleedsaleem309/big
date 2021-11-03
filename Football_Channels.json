@@ -77,10 +77,10 @@
   },
       {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/sky-football/1",
+    "ChannelUrl" : "http://iframe.crik.live/sky-premiere/1.html",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please Play & UnMute Channel from Bottom"
+    "Toast" : "Please Double Tap 👆 on Play for Full Screen"
   }
 ],
 "Sky Sports Main Event" : 
