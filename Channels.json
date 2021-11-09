@@ -97,13 +97,7 @@
   "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
 },
-     {
-  "ChannelName" : "Source ",
-  "ChannelUrl" : "https://cricfree.live/update/cricket.php",
-  "EventName" : "Willow",
-  "ImageUrl" : "https://crik.live/pics/t20.png",
-  "Toast" : "Please Double Tap 👆 on Player for Full Screen"
-},
+
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
