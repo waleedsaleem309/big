@@ -5,7 +5,7 @@
     "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+    "Toast" : "Please Unmute the Channel"
   },
   
    {
@@ -13,7 +13,7 @@
     "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+    "Toast" : "Please Unmute the Channel"
   },
  
   {
@@ -21,7 +21,7 @@
     "ChannelUrl" : "https://hdcast123.com/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please close the ad"
+    "Toast" : "Please Unmute the Channel"
   }
 ],
  
@@ -31,14 +31,14 @@
     "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
     "EventName" : "Star Sports",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+    "Toast" : "Please Unmute the Channel"
   },
   {
     "ChannelName" : "Source 3",
     "ChannelUrl" : "https://hdcast123.com/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
     "EventName" : "Star Sports",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please close the ad"
+    "Toast" : "Please Unmute the Channel"
   }
 ],
 
@@ -48,7 +48,7 @@
     "ChannelUrl" : "http://iframe.crik.live/star-1/a",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+    "Toast" : "Please Unmute the Channel"
   }
 ],
  
@@ -59,7 +59,7 @@
   "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+  "Toast" : "Please Unmute the Channel"
 }
 ],
 "Ten Sports" : 
@@ -69,7 +69,7 @@
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/a",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please Double Tap 👆 on Play Button"
+    "Toast" : "Please Unmute the Channel"
   }
 ],
  "T20 World Cup" : 
@@ -80,14 +80,14 @@
     "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
     "EventName" : "Ten Sports",
     "ImageUrl" : "https://crik.live/pics/a-sports.jpg",
-     "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+     "Toast" : "Please Unmute the Channel"
   },
        {
   "ChannelName" : "Source ",
   "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
-  "Toast" : "Please Double Tap 👆 on Player for Full Screen"
+  "Toast" : "Please Unmute the Channel"
 },
    
        {
@@ -95,7 +95,7 @@
   "ChannelUrl" : "http://iframe.crik.live/ten-sports/a.html",
   "EventName" : "Ten Sports",
   "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
-  "Toast" : "Please Double Tap 👆 on Player for Full Screen"
+  "Toast" : "Please Unmute the Channel"
 },
 
   {
@@ -103,20 +103,20 @@
     "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "http://crik.live/pics/star-hindi.jpg",
-    "Toast" : "Please Double Tap 👆 on Player for Full Screen"
+    "Toast" : "Please Unmute the Channel"
   },  {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/a.html",
     "EventName" : "Star Sports 1",
     "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
-    "Toast" : "Please Double Tap on Player for Full Screen"
+    "Toast" : "Please Unmute the Channel"
   },
     {
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/willow/a",
     "EventName" : "Willow Cricket",
     "ImageUrl" : "https://crik.live/pics/Willow.jpg",
-    "Toast" : "Please Double Tap 👆 on Play for Full Screen"
+    "Toast" : "Please Unmute the Channel"
   }
 ],
 
@@ -125,7 +125,7 @@
     "ChannelUrl" : "http://iframe.crik.live/sky-cricket/2.html",
     "EventName" : "Sky Cricket",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please UnMute the 👆 Channel from Bottom"
+    "Toast" : "Please Unmute the Channel"
   },
   
   "Sky Cricket Source 2" : {
