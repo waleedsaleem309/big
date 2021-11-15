@@ -56,7 +56,7 @@
 "PTV Sports" : [  
    {
   "ChannelName" : "Source ",
-  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/2.html",
+  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please Unmute the Channel"
@@ -84,7 +84,7 @@
   },
        {
   "ChannelName" : "Source ",
-  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/2.html",
+  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
   "Toast" : "Please Unmute the Channel"
