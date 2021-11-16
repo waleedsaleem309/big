@@ -2,11 +2,20 @@
 "Morocco vs Guinea" :[
    {
     "ChannelName" : "Hindi Source",
+    "ChannelUrl" : "https://iframe.crik.live/do16/a.html",
+    "EventName" : "World Cup",
+    "ImageUrl" : "https://news.22bet.com/wp-content/uploads/2021/10/Morocco-vs-Guinea-Bissau.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+   "China vs Australia" :[
+   {
+    "ChannelName" : "Hindi Source",
     "ChannelUrl" : "https://iframe.crik.live/do20/a.html",
     "EventName" : "World Cup",
-    "ImageUrl" : "file:///android_asset/img_1.png",
+    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/11/China-vs-Australia-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
+  }
 ]
   
 }
