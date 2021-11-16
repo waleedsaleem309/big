@@ -34,6 +34,22 @@
     "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/08/Norway-vs-Netherlands-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
     "Toast" : "Please Unmute the Channel"
   }
+],
+   "Wales vs Belgium" :[
+   {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "https://iframe.crik.live/sky-football/a",
+    "EventName" : "World Cup",
+    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/11/Wales-vs-Belgium-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+       {
+    "ChannelName" : "Source 2",
+    "ChannelUrl" : "https://iframe.crik.live/sky-main/a",
+    "EventName" : "World Cup",
+    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/11/Wales-vs-Belgium-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
 ]
   
 }
