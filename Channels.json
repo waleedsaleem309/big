@@ -110,13 +110,6 @@
     "EventName" : "Star Sports 1",
     "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
-    {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/willow/a",
-    "EventName" : "Willow Cricket",
-    "ImageUrl" : "https://crik.live/pics/Willow.jpg",
-    "Toast" : "Please Unmute the Channel"
   }
 ],
 
