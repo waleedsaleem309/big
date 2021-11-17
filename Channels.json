@@ -1,4 +1,30 @@
 {
+   "India vs New Zealand" :[
+   {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
+    "EventName" : "India vs New Zealand",
+    "ImageUrl" : "http://crik.live/pics/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+  
+   {
+    "ChannelName" : "Source 2",
+    "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
+    "EventName" : "India vs New Zealand",
+    "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+ 
+  {
+    "ChannelName" : "Source 3",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a",
+    "EventName" : "India vs New Zealand",
+    "ImageUrl" : "http://crik.live/pics/sky-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+   
 "IPL" :[
    {
     "ChannelName" : "Hindi Source",
