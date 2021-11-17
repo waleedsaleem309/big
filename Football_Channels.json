@@ -66,6 +66,23 @@
     "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
+       "Sky Sports Football" : 
+[
+    {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/sky-football/a",
+    "EventName" : "Sky Sports Football",
+    "ImageUrl" : "http://crik.live/pics/sky-football.jpg",
+    "Toast" : "Please Play & UnMute Channel from Bottom"
+  },
+      {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/sky-football/1",
+    "EventName" : "Sky Sports Football",
+    "ImageUrl" : "http://crik.live/pics/sky-football.jpg",
+    "Toast" : "Please Play & UnMute Channel from Bottom"
+  }
+],
         "Premier League Live" : 
 [
     {
