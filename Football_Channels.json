@@ -39,6 +39,16 @@
     "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
+            "FIFA World Cup" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/laliga/1",
+    "EventName" : "FIFA World Cup",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please Play & UnMute Channel from Bottom"
+  }
+],
 "Ten Sports" : 
 [
   {
