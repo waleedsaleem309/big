@@ -1,64 +1,53 @@
 {
-"Morocco vs Guinea" :[
-   {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "https://iframe.crik.live/do16/a.html",
-    "EventName" : "World Cup",
-    "ImageUrl" : "https://news.22bet.com/wp-content/uploads/2021/10/Morocco-vs-Guinea-Bissau.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
-],
-   "China vs Australia" :[
-   {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "https://iframe.crik.live/do20/a.html",
-    "EventName" : "World Cup",
-    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/11/China-vs-Australia-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
-],
-   "Oman vs Japan" :[
-   {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "https://iframe.crik.live/do20/a.html",
-    "EventName" : "World Cup",
-    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/11/Oman-vs-Japan-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
-],
-   "Netherlands vs Norway" :[
-   {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "https://iframe.crik.live/sky-premiere/a",
-    "EventName" : "World Cup",
-    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/08/Norway-vs-Netherlands-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
-],
-   "Wales vs Belgium" :[
+"Queens Park Rangers vs Luton Town" :[
    {
     "ChannelName" : "Source 1",
     "ChannelUrl" : "https://iframe.crik.live/sky-football/a",
+    "EventName" : "English Championship",
+    "ImageUrl" : "https://i.sportscribe.co/football/fixture_24950.png",
+    "Toast" : "Please Unmute the Channel"
+  },
+     {
+    "ChannelName" : "Source 2",
+    "ChannelUrl" : "https://iframe.crik.live/sky-main/a",
+    "EventName" : "English Championship",
+    "ImageUrl" : "https://i.sportscribe.co/football/fixture_24950.png",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+   "Grimsby Town vs Southend United" :[
+   {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "https://iframe.crik.live/bt-1/a.html",
     "EventName" : "World Cup",
-    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/11/Wales-vs-Belgium-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
+    "ImageUrl" : "https://dve-images.imggaming.com/original/p/2021/01/18/oTL58qCROhIgsDicTm26Ix7oHQcbbJnO-1610973569925.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+   "Monaco vs Lille" :[
+   {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "https://iframe.crik.live/bt-3/a.html",
+    "EventName" : "World Cup",
+    "ImageUrl" : "https://footballia.net/cache/matches/2387be0e04dcc5ab0a9a95557103ad06.png",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+ 
+   "Levante vs Athletic Bilbao" :[
+   {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "https://iframe.crik.live/premier-sports/a",
+    "EventName" : "Spanish La Liga",
+    "ImageUrl" : "https://i.ytimg.com/vi/azLJLDMx-Tw/maxresdefault.jpg",
     "Toast" : "Please Unmute the Channel"
   },
        {
     "ChannelName" : "Source 2",
-    "ChannelUrl" : "https://iframe.crik.live/sky-main/a",
-    "EventName" : "World Cup",
-    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/11/Wales-vs-Belgium-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
-],
-   "Czech Republic vs Estonia" :[
-   {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "https://iframe.crik.live/do16/a",
-    "EventName" : "World Cup",
-    "ImageUrl" : "https://leaguelane.com/wp-content/uploads/2021/11/Czech-Republic-vs-Estonia-World-Cup-Qualifiers-Prediction-by-LeagueLane.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/laliga/1",
+    "EventName" : "Spanish La Liga",
+    "ImageUrl" : "https://i.ytimg.com/vi/azLJLDMx-Tw/maxresdefault.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
-  
 }
