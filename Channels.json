@@ -91,6 +91,15 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+     "A Sports" :[
+ {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
+    "EventName" : "A Sports",
+    "ImageUrl" : "http://crik.live/pics/a-sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
  
  
 "PTV Sports" : [  
