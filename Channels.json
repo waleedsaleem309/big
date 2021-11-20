@@ -16,13 +16,7 @@
   }
 ],
      "Pak vs Ban" :[
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/a-sports/a.html",
-    "EventName" : "Pak vs Ban",
-    "ImageUrl" : "http://crik.live/pics/a-sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
+ 
   {
     "ChannelName" : "Source",
     "ChannelUrl" : "http://iframe.crik.live/ptv-sports/b.html",
