@@ -49,6 +49,16 @@
     "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
+                "Bundesliga" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/sky-main/a",
+    "EventName" : "FIFA World Cup",
+    "ImageUrl" : "http://crik.live/pics/bundesliga.jpg",
+    "Toast" : "Please Play & UnMute Channel from Bottom"
+  }
+],
 "Ten Sports" : 
 [
   {
