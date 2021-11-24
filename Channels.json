@@ -22,20 +22,14 @@
     "EventName" : "T10 League",
     "ImageUrl" : "http://crik.live/pics/a-sports.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
-  {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/free/a.html",
-    "EventName" : "T10 League",
-    "ImageUrl" : "https://crik.live/pics/T1.jpg",
-    "Toast" : "Please Unmute the Channel"
+  }Toast" : "Please Unmute the Channel"
   }
 ],
      "Pak vs Ban" :[
  
   {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
+    "ChannelUrl" : "http://iframe.crik.live/ptv-sports/b.html",
     "EventName" : "Pak vs Ban",
     "ImageUrl" : "http://crik.live/pics/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
@@ -115,7 +109,7 @@
 "PTV Sports" : [  
    {
   "ChannelName" : "Source ",
-  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
+  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please Unmute the Channel"
