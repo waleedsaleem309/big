@@ -29,7 +29,7 @@
  
   {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/ptv-sports/b.html",
+    "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
     "EventName" : "Pak vs Ban",
     "ImageUrl" : "http://crik.live/pics/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
@@ -109,7 +109,7 @@
 "PTV Sports" : [  
    {
   "ChannelName" : "Source ",
-  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
+  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please Unmute the Channel"
