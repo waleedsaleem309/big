@@ -33,9 +33,9 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/laliga/1",
+    "ChannelUrl" : "http://iframe.crik.live/laliga/a",
     "EventName" : "Laliga Live",
-    "ImageUrl" : "file:///android_asset/img_1.png",
+    "ImageUrl" : "file:///android_asset/img_1",
     "Toast" : "Please Play & UnMute Channel from Bottom"
   }
 ],
