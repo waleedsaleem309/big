@@ -3,9 +3,9 @@
    "BBL Live" :[
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://assets.crik.live/Events/bbl.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/sky-football/a.html",
     "EventName" : "India vs New Zealand",
-    "ImageUrl" : "http://crik.live/pics/star-hindi.jpg",
+    "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ],
