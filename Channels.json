@@ -4,28 +4,20 @@
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a.html",
-    "EventName" : "India vs New Zealand",
+    "EventName" : "BBL Live",
+    "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/bein-3/1",
+    "EventName" : "BBL Live",
     "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ],
    
-   "India vs New Zealand" :[
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
-    "EventName" : "India vs New Zealand",
-    "ImageUrl" : "http://crik.live/pics/star-hindi.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-  {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
-    "EventName" : "India vs New Zealand",
-    "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
-],
+ 
      "T10 League" :[
    {
     "ChannelName" : "Source",
@@ -43,20 +35,27 @@
   }
   
 ],
-     "Pak vs Ban" :[
+     "PAK vs WI" :[
  
   {
     "ChannelName" : "Source",
     "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
-    "EventName" : "Pak vs Ban",
-    "ImageUrl" : "http://crik.live/pics/PTV-Sports.jpg",
+    "EventName" : "PAK vs WI",
+    "ImageUrl" : "https://assets.crik.live/Events/pk-wi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
   {
     "ChannelName" : "Source",
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/a.html",
-    "EventName" : "Pak vs Ban",
-    "ImageUrl" : "http://crik.live/pics/Ten-Sports.jpg",
+    "EventName" : "PAK vs WI",
+    "ImageUrl" : "https://assets.crik.live/Events/pk-wi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+         {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a.html",
+    "EventName" : "PAK vs WI",
+    "ImageUrl" : "https://assets.crik.live/Events/pk-wi.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ],
