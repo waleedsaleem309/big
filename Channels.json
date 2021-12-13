@@ -21,7 +21,7 @@
      "T10 League" :[
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/a-sports/a.html",
+    "ChannelUrl" : "https://iframe.crik.live/a-sports/a.html",
     "EventName" : "T10 League",
     "ImageUrl" : "http://crik.live/pics/a-sports.jpg",
     "Toast" : "Please Unmute the Channel"
@@ -39,14 +39,14 @@
  
   {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
     "EventName" : "PAK vs WI",
     "ImageUrl" : "https://assets.crik.live/Events/pk-wi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
   {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/ten-sports/a.html",
+    "ChannelUrl" : "https://iframe.crik.live/ten-sports/a.html",
     "EventName" : "PAK vs WI",
     "ImageUrl" : "https://assets.crik.live/Events/pk-wi.jpg",
     "Toast" : "Please Unmute the Channel"
