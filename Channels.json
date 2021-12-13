@@ -16,7 +16,29 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
-   
+    "Lanka Premier League" :[
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/a-sports/a.html",
+    "EventName" : "Lanka Premier League",
+    "ImageUrl" : "https://assets.crik.live/Events/lpl.png",
+    "Toast" : "Please Unmute the Channel"
+  },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/willow/a",
+    "EventName" : "Lanka Premier League",
+    "ImageUrl" : "https://assets.crik.live/Events/lpl.png",
+    "Toast" : "Please Unmute the Channel"
+  },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/free/a",
+    "EventName" : "Lanka Premier League",
+    "ImageUrl" : "https://assets.crik.live/Events/lpl.png",
+    "Toast" : "Please Unmute the Channel"
+  }
+], 
  
      "T10 League" :[
    {
