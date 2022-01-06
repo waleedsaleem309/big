@@ -134,13 +134,6 @@
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please Unmute the Channel"
-},
-   {
-  "ChannelName" : "Source ",
-  "ChannelUrl" : "http://iframe.crik.live/ptv-sports/b.html",
-  "EventName" : "PTV Sports",
-  "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please Unmute the Channel"
 }
 ],
 "Ten Sports" : 
