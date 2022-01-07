@@ -2,7 +2,7 @@
     "BT Sports 1" : 
 [
   {
-    "ChannelName" : "Source 1",
+    "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/bt-1/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
@@ -12,7 +12,7 @@
   "BT Sports 2" : 
 [
   {
-    "ChannelName" : "Source 1",
+    "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/bt-2/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
@@ -22,7 +22,7 @@
     "BT Sports 3" : 
 [
   {
-    "ChannelName" : "Source 1",
+    "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/bt-3/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
