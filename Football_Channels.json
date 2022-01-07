@@ -3,7 +3,7 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/bt-1/1",
+    "ChannelUrl" : "http://iframe.crik.live/bt-1/a",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please Play & UnMute Channel from Bottom"
@@ -13,7 +13,7 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/bt-2/1",
+    "ChannelUrl" : "http://iframe.crik.live/bt-2/a",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please Play & UnMute Channel from Bottom"
