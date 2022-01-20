@@ -23,14 +23,14 @@
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-2/1",
-    "EventName" : "AD Sports",
+    "EventName" : "AD Sports 2",
     "ImageUrl" : "https://assets.crik.live/Channels/ad-2.jpg",
     "Toast" : "Please Play "
   },
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-2/2",
-    "EventName" : "AD Sports",
+    "EventName" : "AD Sports 2",
     "ImageUrl" : "https://assets.crik.live/Channels/ad-2.jpg",
     "Toast" : "Please Play"
   }
@@ -42,14 +42,14 @@
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-3/1",
-    "EventName" : "AD Sports",
+    "EventName" : "AD Sports 3",
     "ImageUrl" : "https://assets.crik.live/Channels/ad-3.jpg",
     "Toast" : "Please Play "
   },
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-3/2",
-    "EventName" : "AD Sports",
+    "EventName" : "AD Sports 3",
     "ImageUrl" : "https://assets.crik.live/Channels/ad-3.jpg",
     "Toast" : "Please Play"
   }
@@ -61,14 +61,14 @@
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-4/1",
-    "EventName" : "AD Sports",
+    "EventName" : "AD Sports 4",
     "ImageUrl" : "https://assets.crik.live/Channels/ad-4.jpg",
     "Toast" : "Please Play "
   },
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-4/2",
-    "EventName" : "AD Sports",
+    "EventName" : "AD Sports 4",
     "ImageUrl" : "https://assets.crik.live/Channels/ad-4.jpg",
     "Toast" : "Please Play"
   }
@@ -80,14 +80,14 @@
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/yas/1",
-    "EventName" : "AD Sports",
+    "EventName" : "YAS",
     "ImageUrl" : "https://assets.crik.live/Channels/yas.jpg",
     "Toast" : "Please Play "
   },
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/yas/2",
-    "EventName" : "AD Sports",
+    "EventName" : "YAS",
     "ImageUrl" : "https://assets.crik.live/Channels/yas.jpg",
     "Toast" : "Please Play"
   }
