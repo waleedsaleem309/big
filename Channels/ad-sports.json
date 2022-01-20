@@ -1,13 +1,6 @@
 {
     "AD Sports 1" : 
-[
-  {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/ad-1/1",
-    "EventName" : "AD Sports 1",
-    "ImageUrl" : "https://assets.crik.live/Channels/ad-1.jpg",
-    "Toast" : "Please Play "
-  },
+[ 
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-1/2",
@@ -20,13 +13,6 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/ad-2/1",
-    "EventName" : "AD Sports 2",
-    "ImageUrl" : "https://assets.crik.live/Channels/ad-2.jpg",
-    "Toast" : "Please Play "
-  },
-  {
-    "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-2/2",
     "EventName" : "AD Sports 2",
     "ImageUrl" : "https://assets.crik.live/Channels/ad-2.jpg",
@@ -35,13 +21,6 @@
 ],
     "AD Sports 3" : 
 [
-  {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/ad-3/1",
-    "EventName" : "AD Sports 3",
-    "ImageUrl" : "https://assets.crik.live/Channels/ad-3.jpg",
-    "Toast" : "Please Play "
-  },
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-3/2",
@@ -54,13 +33,6 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/ad-4/1",
-    "EventName" : "AD Sports 4",
-    "ImageUrl" : "https://assets.crik.live/Channels/ad-4.jpg",
-    "Toast" : "Please Play "
-  },
-  {
-    "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/ad-4/2",
     "EventName" : "AD Sports 4",
     "ImageUrl" : "https://assets.crik.live/Channels/ad-4.jpg",
@@ -69,13 +41,6 @@
 ],
     "YAS" : 
 [
-  {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/yas/1",
-    "EventName" : "YAS",
-    "ImageUrl" : "https://assets.crik.live/Channels/yas.jpg",
-    "Toast" : "Please Play "
-  },
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://player.crik.live/yas/2",
