@@ -39,30 +39,6 @@
     "Toast" : "Please Unmute the Channel"
   }
 ], 
-     "PAK vs WI" :[
- 
-  {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
-    "EventName" : "PAK vs WI",
-    "ImageUrl" : "https://assets.crik.live/Events/pk-wi.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-  {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ten-sports/a.html",
-    "EventName" : "PAK vs WI",
-    "ImageUrl" : "https://assets.crik.live/Events/pk-wi.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-         {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a.html",
-    "EventName" : "PAK vs WI",
-    "ImageUrl" : "https://assets.crik.live/Events/pk-wi.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
-],
    
 "IPL" :[
    {
@@ -94,13 +70,6 @@
    {
     "ChannelName" : "Source 2",
     "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
-    "EventName" : "Star Sports",
-    "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please Unmute the Channel"
-  },
-  {
-    "ChannelName" : "Source 3",
-    "ChannelUrl" : "https://hdcast123.com/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
     "EventName" : "Star Sports",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please Unmute the Channel"
