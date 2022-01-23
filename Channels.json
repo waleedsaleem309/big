@@ -68,7 +68,7 @@
  
  "Star Sports" :[
    {
-    "ChannelName" : "Source 2",
+    "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
     "EventName" : "Star Sports",
     "ImageUrl" : "file:///android_asset/img_2.png",
@@ -78,7 +78,7 @@
 
   "Star Sports Hindi" :[
  {
-    "ChannelName" : "Source 1",
+    "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/star-1/a",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "file:///android_asset/img_1.png",
