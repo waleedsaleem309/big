@@ -3,7 +3,7 @@
 [ 
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/ad-1/2",
+    "ChannelUrl" : "https://player.crik.live/kass-1/1",
     "EventName" : "AlKass 1",
     "ImageUrl" : "https://assets.crik.live/Channels/kass-1.png",
     "Toast" : "Please Play"
@@ -13,7 +13,7 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/ad-2/2",
+    "ChannelUrl" : "https://player.crik.live/kass-2/1",
     "EventName" : "AlKass 2",
     "ImageUrl" : "https://assets.crik.live/Channels/kass-2.png",
     "Toast" : "Please Play"
@@ -23,7 +23,7 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/ad-3/2",
+    "ChannelUrl" : "https://player.crik.live/kass-3/1",
     "EventName" : "AlKass 3",
     "ImageUrl" : "https://assets.crik.live/Channels/kass-3.png",
     "Toast" : "Please Play"
@@ -33,9 +33,19 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://player.crik.live/ad-4/2",
+    "ChannelUrl" : "https://player.crik.live/kass-4/1",
     "EventName" : "AlKass 4",
     "ImageUrl" : "https://assets.crik.live/Channels/kass-4.png",
+    "Toast" : "Please Play"
+  }
+],
+       "AlKass 5" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "https://player.crik.live/kass-5/1",
+    "EventName" : "AlKass 5",
+    "ImageUrl" : "https://assets.crik.live/Channels/kass-5.png",
     "Toast" : "Please Play"
   }
 ]
