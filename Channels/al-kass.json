@@ -1,0 +1,42 @@
+{
+    "AlKass 1" : 
+[ 
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "https://player.crik.live/ad-1/2",
+    "EventName" : "AlKass 1",
+    "ImageUrl" : "https://assets.crik.live/Channels/kass-1.png",
+    "Toast" : "Please Play"
+  }
+],
+    "AlKass 2" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "https://player.crik.live/ad-2/2",
+    "EventName" : "AlKass 2",
+    "ImageUrl" : "https://assets.crik.live/Channels/kass-2.png",
+    "Toast" : "Please Play"
+  }
+],
+    "AlKass 3" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "https://player.crik.live/ad-3/2",
+    "EventName" : "AlKass 3",
+    "ImageUrl" : "https://assets.crik.live/Channels/kass-3.png",
+    "Toast" : "Please Play"
+  }
+],
+    "AlKass 4" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "https://player.crik.live/ad-4/2",
+    "EventName" : "AlKass 4",
+    "ImageUrl" : "https://assets.crik.live/Channels/kass-4.png",
+    "Toast" : "Please Play"
+  }
+]
+}
