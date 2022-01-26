@@ -2,7 +2,7 @@
      "BT Sports 1" :[
  {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/bt-1/b",
+    "ChannelUrl" : "https://iframe.crik.live/bt-1/3",
     "EventName" : "BT Sports 1",
     "ImageUrl" : "https://assets.crik.live/Channels/bt-1.jpg",
     "Toast" : "Please Unmute the Channel"
@@ -11,7 +11,7 @@
        "BT Sports 2" :[
  {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/bt-2/b",
+    "ChannelUrl" : "https://iframe.crik.live/bt-2/3",
     "EventName" : "BT Sports 2",
     "ImageUrl" : "https://assets.crik.live/Channels/bt-2.jpg",
     "Toast" : "Please Unmute the Channel"
@@ -20,7 +20,7 @@
        "BT Sports 3" :[
  {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/bt-3/b",
+    "ChannelUrl" : "https://iframe.crik.live/bt-3/3",
     "EventName" : "BT Sports 3",
     "ImageUrl" : "https://assets.crik.live/Channels/bt-3.jpg",
     "Toast" : "Please Unmute the Channel"
