@@ -14,6 +14,13 @@
     "EventName" : "PSL 7",
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ten-sports/a.html",
+    "EventName" : "PSL 7",
+    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
   }
 ]
 }
