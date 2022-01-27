@@ -21,6 +21,27 @@
     "EventName" : "PSL 7",
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/willow/a.html",
+    "EventName" : "PSL 7",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+    {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/a-sports/b.html",
+    "EventName" : "PSL 7",
+    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
+    "EventName" : "PSL 7",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
   }
 ]
 }
