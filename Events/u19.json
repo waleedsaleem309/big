@@ -3,7 +3,7 @@
    "U19" :[ 
       {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/a-sports/1",
+    "ChannelUrl" : "https://iframe.crik.live/a-sports/a",
     "EventName" : "U19 Live",
     "ImageUrl" : "https://assets.crik.live/Events/u19/u19.jpg",
     "Toast" : "Please Tap on Play Button"
@@ -17,7 +17,7 @@
   },
         {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/willow/a",
+    "ChannelUrl" : "https://iframe.crik.live/willow/a",
     "EventName" : "BBL Live",
     "ImageUrl" : "https://assets.crik.live/Events/u19/u19.jpg",
     "Toast" : "Please Unmute the Channel"
