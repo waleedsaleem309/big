@@ -5,14 +5,14 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a",
     "EventName" : "IND vs WI",
-    "ImageUrl" : "http://assets.crik.live/Events/bl.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
         {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/a",
     "EventName" : "IND vs WI",
-    "ImageUrl" : "http://assets.crik.live/Events/bl.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
