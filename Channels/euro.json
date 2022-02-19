@@ -4,7 +4,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/euro-1/a",
     "EventName" : "BT Sports 1",
-    "ImageUrl" : "https://assets.crik.live/Channels/euro1.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/euro1.jp",
     "Toast" : "Please Unmute the Channel"
   }
 ],
@@ -13,7 +13,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/euro-2/a",
     "EventName" : "BT Sports 2",
-    "ImageUrl" : "https://assets.crik.live/Channels/euro2.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/euro2.jp",
     "Toast" : "Please Unmute the Channel"
   }
 ]
