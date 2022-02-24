@@ -14,6 +14,13 @@
     "EventName" : "IND vs SL",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
+  },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a",
+    "EventName" : "IND vs SL",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
   }
 ]
 }
