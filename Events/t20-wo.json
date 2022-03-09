@@ -1,0 +1,19 @@
+{
+   
+   "T20 Women" :[ 
+      {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/a-sports/a.html",
+    "EventName" : "PSL 7",
+    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a.html",
+    "EventName" : "PSL 7",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+     ]
+}
