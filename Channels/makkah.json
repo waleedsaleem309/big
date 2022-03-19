@@ -1,0 +1,20 @@
+{
+     "Makkah" :[
+ {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/makkah/1",
+    "EventName" : "Makkah",
+    "ImageUrl" : "https://assets.crik.live/Channels/makkah.jpg",
+    "Toast" : "Please Tap on Play Button"
+  }
+],
+       "Madina" :[
+ {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/madina/1",
+    "EventName" : "Madina",
+    "ImageUrl" : "https://assets.crik.live/Channels/madina.jpg",
+    "Toast" : "Please Tap on Play Button"
+  }
+]
+}
