@@ -1,0 +1,21 @@
+{
+  "Star Sports" :[
+   {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/star-sports/a.html",
+    "EventName" : "Star Sports",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+
+  "Star Sports Hindi" :[
+ {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/star-1/a",
+    "EventName" : "Star Sports Hindi",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please Unmute the Channel"
+  }
+]
+}
