@@ -38,14 +38,14 @@
   },
       {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/fox/a.html",
+    "ChannelUrl" : "https://iframe.crik.live/fox-501/a.html",
     "EventName" : "IPL",
     "ImageUrl" : "https://assets.crik.live/Channels/ipl.jpg",
     "Toast" : "Please Unmute the Channel"
   },
       {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/fox/b.html",
+    "ChannelUrl" : "https://iframe.crik.live/fox-501/b.html",
     "EventName" : "IPL",
     "ImageUrl" : "https://assets.crik.live/Channels/ipl.jpg",
     "Toast" : "Please Unmute the Channel"
