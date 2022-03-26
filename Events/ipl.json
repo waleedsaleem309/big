@@ -1,11 +1,53 @@
 {
    
-   "PSL 7" :[ 
+   "IPL" :[ 
       {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/a-sports/a.html",
-    "EventName" : "PSL 7",
-    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/a.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+       {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/a.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+       {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/b.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+      {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/willow/a.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/ipl.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+      {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/fox/a.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/ipl.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+      {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/fox/b.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/ipl.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+      {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/willow/b.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/ipl.jpg",
     "Toast" : "Please Unmute the Channel"
   }
      ]
