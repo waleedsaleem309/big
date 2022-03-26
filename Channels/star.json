@@ -1,0 +1,35 @@
+{
+   
+   "Star Sports" :[ 
+       {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/a.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+       {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/b.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+     ],
+   "Star Sports Hindi" :[ 
+       {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star--1/a.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+       {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/b.html",
+    "EventName" : "IPL",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+     ]
+}
