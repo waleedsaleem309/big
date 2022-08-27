@@ -15,6 +15,13 @@
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
+              {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
+    "EventName" : "Asia Cup",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
         {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/a.html",
