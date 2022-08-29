@@ -4,11 +4,6 @@
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Sky Football",
   "Url" : "https://crik.live/Football_Channels.json"
-  },
-    {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports",
-  "Url" : "https://crik.live/Football_Channels.json"
   }
 ],
   "Sky Football" : [
