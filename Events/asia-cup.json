@@ -17,7 +17,7 @@
   },
               {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
+    "ChannelUrl" : "http://51.15.11.171:3135/GVXGgP/ss1/index.m3u8",
     "EventName" : "Asia Cup",
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
