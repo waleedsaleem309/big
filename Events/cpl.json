@@ -7,19 +7,18 @@
     "EventName" : "IND vs SL",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
+  },  {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/bt-3/a",
+    "EventName" : "IND vs SL",
+    "ImageUrl" : "https://assets.crik.live/Channels/bt-3.jpg",
+    "Toast" : "Please Unmute the Channel"
   },
         {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/willow-extra/a",
     "EventName" : "IND vs SL",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-        {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/bt-3/a",
-    "EventName" : "IND vs SL",
-    "ImageUrl" : "https://assets.crik.live/Channels/bt-3.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
