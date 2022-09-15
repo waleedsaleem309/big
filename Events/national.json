@@ -1,0 +1,19 @@
+{
+   
+   "National T20" :[
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
+    "EventName" : "National T20",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+            {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
+    "EventName" : "National T20",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+     ]
+}
