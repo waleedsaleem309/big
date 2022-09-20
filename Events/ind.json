@@ -1,0 +1,39 @@
+{ 
+   "IND vs AUS" :[ 
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/a",
+    "EventName" : "IND vs AUS",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/a",
+    "EventName" : "IND vs AUS",
+    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/fox-501/a",
+    "EventName" : "IND vs AUS",
+    "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/b",
+    "EventName" : "IND vs AUS",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/b",
+    "EventName" : "IND vs AUS",
+    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+]
+}
