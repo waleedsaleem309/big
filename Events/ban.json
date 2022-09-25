@@ -4,14 +4,14 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/gazi/a",
     "EventName" : "BAN vs UAE",
-    "ImageUrl" : "https://assets.crik.live/Channels/s.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/gtv.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/geo/a",
     "EventName" : "BAN vs UAE",
-    "ImageUrl" : "https://assets.crik.live/Channels/s.jpg",
+    "ImageUrl" : "https://assets.crik.live/Events/ban-uae.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
