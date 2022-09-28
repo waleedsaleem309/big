@@ -1,51 +1,51 @@
 { 
-   "IND vs AUS" :[ 
+   "IND vs SA" :[ 
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a",
-    "EventName" : "IND vs AUS",
+    "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/a",
-    "EventName" : "IND vs AUS",
+    "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/super-cricket/a",
-    "EventName" : "IND vs AUS",
+    "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/b",
-    "EventName" : "IND vs AUS",
+    "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/b",
-    "EventName" : "IND vs AUS",
+    "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/super-cricket/b",
-    "EventName" : "IND vs AUS",
+    "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/astro-cricket/b",
-    "EventName" : "IND vs AUS",
+    "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/astro-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   }
