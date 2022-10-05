@@ -16,7 +16,7 @@
   },
            {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/fox-cricket/a",
+    "ChannelUrl" : "https://iframe.crik.live/fox-501/a",
     "EventName" : "AUS vs WI",
     "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
@@ -24,6 +24,34 @@
            {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/super-cricket/a",
+    "EventName" : "AUS vs WI",
+    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+            {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/willow/b",
+    "EventName" : "AUS vs WI",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/bt-1/b",
+    "EventName" : "AUS vs WI",
+    "ImageUrl" : "https://assets.crik.live/Channels/bt-1.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/fox-501/b",
+    "EventName" : "AUS vs WI",
+    "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/super-cricket/b",
     "EventName" : "AUS vs WI",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
