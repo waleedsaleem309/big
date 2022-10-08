@@ -125,7 +125,17 @@
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/a",
     "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/img_1.png",
+    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+   "Ten1" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/ten1/b",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "https://assets.crik.live/Channels/ten1.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ],
