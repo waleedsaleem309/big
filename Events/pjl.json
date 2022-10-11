@@ -1,0 +1,25 @@
+{
+   "PJL" :[ 
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
+    "EventName" : "PGL",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/geo/b",
+    "EventName" : "PGL",
+    "ImageUrl" : "http://assets.crik.live/Channels/geo.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b",
+    "EventName" : "PGL",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+]
+}
