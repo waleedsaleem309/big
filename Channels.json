@@ -144,65 +144,53 @@
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/sony-6/1",
     "EventName" : "Sony Six",
-    "ImageUrl" : "http://assets.crik.live/Channels/sony-six.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/sony-six.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ],
- "T20 World Cup" : 
+  "Sky Cricket" : 
 [
-
-   {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "https://crik.live/pics/a-sports.jpg",
-     "Toast" : "Please Unmute the Channel"
-  },
-       {
-  "ChannelName" : "Source ",
-  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
-  "EventName" : "PTV Sports",
-  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
-  "Toast" : "Please Unmute the Channel"
-},
-   
-       {
-  "ChannelName" : "Source ",
-  "ChannelUrl" : "http://iframe.crik.live/ten-sports/a.html",
-  "EventName" : "Ten Sports",
-  "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
-  "Toast" : "Please Unmute the Channel"
-},
-
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
-    "EventName" : "Star Sports Hindi",
-    "ImageUrl" : "http://crik.live/pics/star-hindi.jpg",
+    "ChannelUrl" : "http://iframe.crik.live/sky-cricket/a",
+    "EventName" : "Sky Cricket",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
-  },  {
+  },
+     {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "https://iframe.crik.live/star-sports/a.html",
-    "EventName" : "Star Sports 1",
-    "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
+    "ChannelUrl" : "http://iframe.crik.live/sky-cricket/b",
+    "EventName" : "Sky Cricket",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ],
-
-  "Sky Cricket Source 1" : {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://iframe.crik.live/sky-cricket/2.html",
-    "EventName" : "Sky Cricket",
-    "ImageUrl" : "file:///android_asset/img_1.png",
+  "Super Cricket" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/super-cricket/a",
+    "EventName" : "Super Cricket",
+    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
-  
-  "Sky Cricket Source 2" : {
-    "ChannelName" : "Source 3",
-    "ChannelUrl" : "http://cricfree.live/update/skycricket.php",
-    "EventName" : "Sky Cricket",
-    "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
+     {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/super-cricket/b",
+    "EventName" : "Super Cricket",
+    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
   }
+],
+  "Willow" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/willow/a",
+    "EventName" : "Willow",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+]
   
 }
