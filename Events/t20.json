@@ -77,7 +77,14 @@
     "EventName" : "T20 World Cup",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
-  }, 
+  },  
+      {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ten-sports/b.html",
+    "EventName" : "T20 World Cup",
+    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
       {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/sky-cricket/b.html",
