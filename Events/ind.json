@@ -1,5 +1,5 @@
 { 
-   "IND vs SA" :[ 
+   "IND vs NZ" :[ 
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a",
@@ -44,23 +44,9 @@
   },
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/super-cricket/b",
-    "EventName" : "IND vs SA",
-    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-   {
-    "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/willow/b",
     "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/astro-cricket/b",
-    "EventName" : "IND vs SA",
-    "ImageUrl" : "https://assets.crik.live/Channels/astro-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
