@@ -25,5 +25,14 @@
     "ImageUrl" : "https://assets.crik.live/Channels/bt-3.jpg",
     "Toast" : "Please Unmute the Channel"
   }
+],
+       "BT Sports espn" :[
+ {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/bt-espn/a",
+    "EventName" : "BT Sports 3",
+    "ImageUrl" : "https://assets.crik.live/Channels/bt-espn.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
 ]
 }
