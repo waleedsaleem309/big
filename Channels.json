@@ -108,6 +108,7 @@
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
   "EventName" : "PTV Sports",
+  "Browser" : "1",
   "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
   "Toast" : "Please Unmute the Channel"
 },
@@ -115,6 +116,7 @@
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://iframe.crik.live/ptv-sports/d",
   "EventName" : "PTV Sports",
+  "Browser" : "1",
   "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
   "Toast" : "Please Unmute the Channel"
 }
@@ -126,12 +128,14 @@
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/a",
     "EventName" : "Ten Sports",
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "Browser" : "1",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/b",
     "EventName" : "Ten Sports",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
   }
