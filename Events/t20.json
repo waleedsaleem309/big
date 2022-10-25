@@ -80,7 +80,7 @@
   },  
       {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ten-sports/b.html",
+    "ChannelUrl" : "https://test.crik.live/script.html",
     "EventName" : "T20 World Cup",
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
