@@ -5,6 +5,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
     "EventName" : "T20 World Cup",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -12,6 +13,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a.html",
     "EventName" : "T20 World Cup",
+    "Browser" : "1  
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   }, 
@@ -33,6 +35,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a.html",
     "EventName" : "T20 World Cup",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -40,6 +43,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/fox-501/a",
     "EventName" : "T20 World Cup",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -47,6 +51,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/willow/a",
     "EventName" : "T20 World Cup",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -54,6 +59,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/super-cricket/a",
     "EventName" : "T20 World Cup",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   }              
