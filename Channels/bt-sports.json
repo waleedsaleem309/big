@@ -4,6 +4,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/bt-1/a",
     "EventName" : "BT Sports 1",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/bt-1.jpg",
     "Toast" : "Please Unmute the Channel"
   }
@@ -13,6 +14,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/bt-2/a",
     "EventName" : "BT Sports 2",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/bt-2.jpg",
     "Toast" : "Please Unmute the Channel"
   }
@@ -22,6 +24,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/bt-3/a",
     "EventName" : "BT Sports 3",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/bt-3.jpg",
     "Toast" : "Please Unmute the Channel"
   }
@@ -31,6 +34,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/bt-espn/a",
     "EventName" : "BT Sports 3",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/bt-espn.jpg",
     "Toast" : "Please Unmute the Channel"
   }
