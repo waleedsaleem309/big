@@ -114,9 +114,9 @@
 },
       {
   "ChannelName" : "Source ",
-  "ChannelUrl" : "https://test.crik.live/test2.php",
+  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/d",
   "EventName" : "PTV Sports",
-  "Browser" : "2",
+  "Browser" : "1",
   "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
   "Toast" : "Please Unmute the Channel"
 }
