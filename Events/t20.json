@@ -56,48 +56,6 @@
     "EventName" : "T20 World Cup",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
-                 {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://test.crik.live/iframe.html",
-    "EventName" : "T20 World Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-      {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-1/b.html",
-    "EventName" : "T20 World Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }, 
-      {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-sports/b.html",
-    "EventName" : "T20 World Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },  
-      {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://test.crik.live/script.html",
-    "EventName" : "T20 World Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-      {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/b.html",
-    "EventName" : "T20 World Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }, 
-      {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/super-cricket/b.html",
-    "EventName" : "T20 World Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
+  }              
      ]
 }
