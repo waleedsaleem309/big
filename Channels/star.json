@@ -5,13 +5,15 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/a.html",
     "EventName" : "IPL",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   },
        {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-sports/b.html",
+    "ChannelUrl" : "https://gocast123.me/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
     "EventName" : "IPL",
+    "Browser" : "2",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   }
@@ -21,13 +23,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a.html",
     "EventName" : "IPL",
-    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-       {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-1/b.html",
-    "EventName" : "IPL",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   }
