@@ -1,0 +1,13 @@
+{
+   
+   "T20 World Cup" :[ 
+            {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://new.ptvcrickethd.com/pak/media.stream/index.m3u8",
+    "EventName" : "T20 World Cup",
+    "Browser" : "2",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }             
+     ]
+}
