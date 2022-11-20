@@ -27,6 +27,48 @@
     "EventName" : "FIFA 2022",
     "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
     "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/super-grandstand/a",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/tsn-1/b",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/bein-1-fr/a",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/zdf-gr/b",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sportv-1-br/b",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sport-tv-1/b",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
+    "Toast" : "Please Unmute the Channel"
   }
 ]
 }
