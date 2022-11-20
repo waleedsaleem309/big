@@ -2,30 +2,30 @@
    "FIFA 2022" :[ 
            {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/bt-1/a",
-    "EventName" : "AUS vs WI",
-    "ImageUrl" : "https://assets.crik.live/Channels/bt-1.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/bbc-one/a",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
     "Toast" : "Please Unmute the Channel"
   },
            {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/fox-501/a",
-    "EventName" : "AUS vs WI",
-    "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
     "Toast" : "Please Unmute the Channel"
   },
            {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/bt-1/b",
-    "EventName" : "AUS vs WI",
-    "ImageUrl" : "https://assets.crik.live/Channels/bt-1.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/super-football/a",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
     "Toast" : "Please Unmute the Channel"
   },
            {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/fox-501/b",
-    "EventName" : "AUS vs WI",
-    "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/super-laliga/a",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
