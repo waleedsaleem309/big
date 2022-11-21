@@ -42,6 +42,13 @@
     "ImageUrl" : "https://assets.crik.live/Events/fifa.jpg",
     "Toast" : "Please Unmute the Channel"
   },
+            {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/trt-1/b",
+    "EventName" : "FIFA 2022",
+    "ImageUrl" : "https://assets.crik.live/Channels/trt-1.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
            {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/super-grandstand/a",
