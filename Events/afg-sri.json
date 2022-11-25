@@ -14,6 +14,13 @@
     "ImageUrl" : "https://assets.crik.live/Channels/super-action.jpg",
     "Toast" : "Please Unmute the Channel"
   },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/super-cricket/a",
+    "EventName" : "AFG vs SRI",
+    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
          {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/sony-6/1",
