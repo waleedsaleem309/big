@@ -1,0 +1,11 @@
+{
+    "test": [
+ {
+    "ChannelName" : "1st ODI",
+    "ChannelUrl" : "https://assets.crik.live/sri-afg.mp4",
+    "EventName" : "India vs New Zealand",
+    "ImageUrl" : "http://assets.crik.live/Events/bbl.jp",
+    "Toast" : "Please Unmute the Channel"
+  }
+]
+}
