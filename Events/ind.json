@@ -1,5 +1,5 @@
 { 
-   "IND vs NZ" :[ 
+   "IND vs BAN" :[ 
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a",
@@ -16,9 +16,9 @@
   },
     {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/willow/a",
+    "ChannelUrl" : "http://iframe.crik.live/sony-6/1",
     "EventName" : "IND vs SA",
-    "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/sony-5.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
@@ -33,13 +33,6 @@
     "ChannelUrl" : "https://iframe.crik.live/star-sports/b",
     "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/willow/b",
-    "EventName" : "IND vs SA",
-    "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
