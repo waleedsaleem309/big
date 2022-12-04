@@ -2,16 +2,9 @@
    "IND vs BAN" :[ 
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-1/a",
+    "ChannelUrl" : "https://iframe.crik.live/viaplay-2/b",
     "EventName" : "IND vs SA",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-sports/a",
-    "EventName" : "IND vs SA",
-    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   },
     {
@@ -23,16 +16,9 @@
   },
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-1/b",
+    "ChannelUrl" : "https://iframe.crik.live/willow-extra/a",
     "EventName" : "IND vs SA",
-    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-sports/b",
-    "EventName" : "IND vs SA",
-    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow-extra.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
