@@ -8,15 +8,15 @@
     "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
-       {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://gocast123.me/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
-    "EventName" : "IPL",
-    "Browser" : "2",
-    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
-    "Toast" : "Please Unmute the Channel"
   }
+
+
+
+
+
+
+
+
      ],
    "Star Sports Hindi" :[ 
        {
