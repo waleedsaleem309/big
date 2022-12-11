@@ -1,0 +1,11 @@
+{
+   "Test" :[
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a.html",
+    "EventName" : "BBL Live",
+    "ImageUrl" : "https://assets.crik.live/Events/b.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+]
+}
