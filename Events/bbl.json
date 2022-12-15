@@ -1,25 +1,31 @@
 {
-   
-   "BBL Live" :[ 
-      {
+   "Big Bash League" :[ 
+           {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ten-sports/a.html",
-    "EventName" : "BBL Live",
-    "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a",
+    "EventName" : "Big Bash League",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
-   {
+           {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a.html",
-    "EventName" : "BBL Live",
-    "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/fox-501/a",
+    "EventName" : "Big Bash League",
+    "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
-        {
+           {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/bein-3/1",
-    "EventName" : "BBL Live",
-    "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/willow-extra/a",
+    "EventName" : "Big Bash League",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow-extra.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sony-2/b",
+    "EventName" : "Big Bash League",
+    "ImageUrl" : "https://assets.crik.live/Channels/sony-2.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
