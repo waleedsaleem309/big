@@ -27,6 +27,20 @@
     "EventName" : "Big Bash League",
     "ImageUrl" : "https://assets.crik.live/Channels/sony-2.jpg",
     "Toast" : "Please Unmute the Channel"
+  },
+               {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/b",
+    "EventName" : "Big Bash League",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+           {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/fox-501/b",
+    "EventName" : "Big Bash League",
+    "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
   }
 ]
 }
