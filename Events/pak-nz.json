@@ -1,6 +1,6 @@
 {
    
-   "PAK vs AUS" :[ 
+   "PAK vs NZ" :[ 
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
@@ -10,9 +10,9 @@
   },
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a",
     "EventName" : "PSL 7",
-    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
