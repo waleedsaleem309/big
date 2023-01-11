@@ -1,0 +1,18 @@
+{ 
+   "BPL" :[ 
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/viaplay-extra/a",
+    "EventName" : "AFG vs SRI",
+    "ImageUrl" : "https://assets.crik.live/Channels/viaplay.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+         {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/viaplay-extra/b",
+    "EventName" : "AFG vs SRI",
+    "ImageUrl" : "https://assets.crik.live/Channels/viaplay.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+]
+}
