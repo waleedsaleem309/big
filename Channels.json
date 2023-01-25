@@ -82,14 +82,6 @@
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "Browser" : "1",
     "Toast" : "Please Unmute the Channel"
-  },
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://gocast123.me/embed.php?player=mobile&v=tenspk",
-    "EventName" : "Ten Sports",
-    "Browser" : "2",
-    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
   }
 ],
    "Ten1" : 
