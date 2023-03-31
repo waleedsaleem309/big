@@ -33,28 +33,28 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/willow/a.html",
     "EventName" : "IPL",
-    "ImageUrl" : "https://assets.crik.live/Events/ipl.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
   },
       {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/fox-501/a.html",
     "EventName" : "IPL",
-    "ImageUrl" : "https://assets.crik.live/Events/ipl.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
       {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/fox-501/b.html",
     "EventName" : "IPL",
-    "ImageUrl" : "https://assets.crik.live/Events/ipl.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
       {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/willow/b.html",
     "EventName" : "IPL",
-    "ImageUrl" : "https://assets.crik.live/Events/ipl.jpg",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
   }
      ]
