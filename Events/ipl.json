@@ -5,27 +5,31 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a.html",
     "EventName" : "IPL",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
        {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/a.html",
-    "EventName" : "IPL",
+    "EventName" : "IPL",   
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   }, 
       {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/b.html",
-    "EventName" : "IPL",
+    "EventName" : "IPL",   
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
        {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/b.html",
-    "EventName" : "IPL",
+    "EventName" : "IPL",   
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -39,21 +43,24 @@
       {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/fox-501/a.html",
-    "EventName" : "IPL",
+    "EventName" : "IPL",   
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
       {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/fox-501/b.html",
-    "EventName" : "IPL",
+    "EventName" : "IPL",   
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/fox-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
       {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/willow/b.html",
-    "EventName" : "IPL",
+    "EventName" : "IPL",   
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
   }
