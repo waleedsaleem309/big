@@ -3,16 +3,44 @@
    "PAK vs NZ" :[ 
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
-    "EventName" : "PSL 7",
-    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
+    "EventName" : "PAK vs NZ",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.webp",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a",
-    "EventName" : "PSL 7",
-    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/sky-mix/a",
+    "EventName" : "PAK vs NZ",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-mix.webp",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/willow-extra/a",
+    "EventName" : "PAK vs NZ",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow-extra.webp",
+    "Toast" : "Please Unmute the Channel"
+  },
+         {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b",
+    "EventName" : "PAK vs NZ",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.webp",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sky-mix/b",
+    "EventName" : "PAK vs NZ",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-mix.webp",
+    "Toast" : "Please Unmute the Channel"
+  },
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/willow-extra/b",
+    "EventName" : "PAK vs NZ",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow-extra.webp",
     "Toast" : "Please Unmute the Channel"
   }
 ]
