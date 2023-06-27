@@ -4,6 +4,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/willow/a",
     "EventName" : "AFG vs SRI",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -11,6 +12,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/super-action/a",
     "EventName" : "AFG vs SRI",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-action.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -18,6 +20,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/super-cricket/a",
     "EventName" : "AFG vs SRI",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -25,6 +28,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/sony-6/1",
     "EventName" : "AFG vs SRI",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/sony-5.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -32,6 +36,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/willow/b",
     "EventName" : "AFG vs SRI",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -39,6 +44,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/super-action/b",
     "EventName" : "AFG vs SRI",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-action.jpg",
     "Toast" : "Please Unmute the Channel"
   }
