@@ -28,8 +28,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
- 
- 
+
 "PTV Sports" : [  
       {
   "ChannelName" : "Source ",
@@ -56,6 +55,7 @@
   "Toast" : "Please Unmute the Channel"
 }
 ],
+ 
 "Ten Sports" : 
 [
   {
@@ -67,6 +67,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+ 
    "Ten1" : 
 [
   {
@@ -76,7 +77,9 @@
     "ImageUrl" : "https://assets.crik.live/Channels/ten1.jpg",
     "Toast" : "Please Unmute the Channel"
   }
-],   "Sony Six" : 
+],
+ 
+ "Sony Six" : 
 [
   {
     "ChannelName" : "Source ",
@@ -87,6 +90,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+ 
   "Sky Sports Cricket" : 
 [
   {
@@ -106,6 +110,27 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+ 
+   "Sky Sports Main Event" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/sky-main/a",
+    "EventName" : "Sky Cricket",
+       "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-main.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+     {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/sky-main/b",
+    "EventName" : "Sky Cricket",
+          "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+ 
   "SuperSport Cricket" : 
 [
   {
@@ -125,6 +150,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+ 
      "SuperSport Grandstand" : 
 [
   {
@@ -144,6 +170,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+ 
   "Willow Cricket" : 
 [
   {
@@ -162,6 +189,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+ 
     "Willow Extra" : 
 [
   {
@@ -172,6 +200,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+ 
     "Astro Cricket" : 
 [
   {
