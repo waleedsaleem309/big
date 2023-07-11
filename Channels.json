@@ -111,7 +111,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
-  "Sky Cricket" : 
+  "Sky Sports Cricket" : 
 [
   {
     "ChannelName" : "Source ",
@@ -128,7 +128,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
-  "Super Cricket" : 
+  "SuperSport Cricket" : 
 [
   {
     "ChannelName" : "Source ",
@@ -145,7 +145,7 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
-  "Willow" : 
+  "Willow Cricket" : 
 [
   {
     "ChannelName" : "Source",
@@ -167,6 +167,16 @@
   {
     "ChannelName" : "Source",
     "ChannelUrl" : "http://iframe.crik.live/willow-extra/a",
+    "EventName" : "Willow Extra",
+    "ImageUrl" : "https://assets.crik.live/Channels/willow-extra.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
+    "Astro Cricket" : 
+[
+  {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/astro-cricket/b",
     "EventName" : "Willow Extra",
     "ImageUrl" : "https://assets.crik.live/Channels/willow-extra.jpg",
     "Toast" : "Please Unmute the Channel"
