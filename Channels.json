@@ -150,6 +150,25 @@
     "Toast" : "Please Unmute the Channel"
   }
 ],
+     "SuperSport Grandstand" : 
+[
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/super-grandstand/a",
+    "EventName" : "Super Cricket",
+       "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/super-grandstand.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+     {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/super-grandstand/b",
+    "EventName" : "Super Cricket",
+          "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+],
   "Willow Cricket" : 
 [
   {
