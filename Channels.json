@@ -107,6 +107,7 @@
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/sony-6/1",
     "EventName" : "Sony Six",
+       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/sony-six.jpg",
     "Toast" : "Please Unmute the Channel"
   }
@@ -117,6 +118,7 @@
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/sky-cricket/a",
     "EventName" : "Sky Cricket",
+       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -124,6 +126,7 @@
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/sky-cricket/b",
     "EventName" : "Sky Cricket",
+          "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   }
@@ -134,6 +137,7 @@
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/super-cricket/a",
     "EventName" : "Super Cricket",
+       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   },
@@ -141,6 +145,7 @@
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/super-cricket/b",
     "EventName" : "Super Cricket",
+          "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
   }
@@ -158,6 +163,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "http://iframe.crik.live/willow/b",
     "EventName" : "Willow",
+        "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
   }
@@ -178,6 +184,7 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/astro-cricket/b",
     "EventName" : "Willow Extra",
+       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/willow-extra.jpg",
     "Toast" : "Please Unmute the Channel"
   }
