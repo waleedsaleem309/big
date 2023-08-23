@@ -30,22 +30,7 @@
 ],
 
 "PTV Sports" : [  
-         {
-  "ChannelName" : "Player",
-  "ChannelUrl" : "https://ok.ru/videoembed/6382884953625?autoplay=1",
-  "EventName" : "PTV Sports",
-  "Browser" : "2",
-  "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-  "Toast" : "Please Unmute the Channel"
-}, 
-     {
-  "ChannelName" : "Player",
-  "ChannelUrl" : "https://ok.ru/videoembed/6382820597273?autoplay=1",
-  "EventName" : "PTV Sports",
-  "Browser" : "2",
-  "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-  "Toast" : "Please Unmute the Channel"
-}, {
+   {
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
   "EventName" : "PTV Sports",
