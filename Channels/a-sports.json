@@ -2,6 +2,13 @@
      "A Sports" :[
 {
     "ChannelName" : "Source",
+    "ChannelUrl" : "https://ok.ru/videoembed/6382873615897?autoplay=1",
+    "EventName" : "A Sports",
+      "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },{
+    "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/a-sports/a",
     "EventName" : "A Sports",
       "Browser" : "1",
