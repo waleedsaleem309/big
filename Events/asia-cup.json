@@ -3,63 +3,56 @@
    "Asia Cup 2023" :[
         {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
-    "EventName" : "Asia Cup",
+    "ChannelUrl" : "https://ok.ru/videoembed/6392915959321?autoplay=1",
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-1/a.html",
-    "EventName" : "Asia Cup",
+    "ChannelUrl" : "https://ok.ru/videoembed/6403408993817?autoplay=1",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://ok.ru/videoembed/6400133439001?autoplay=1",
+    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
   },
               {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://51.15.11.171:3135/GVXGgP/ss1/index.m3u8",
-    "EventName" : "Asia Cup",
+    "ChannelUrl" : "https://ok.ru/videoembed/6392798584345?autoplay=1",
+    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
   },
         {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-sports/a.html",
-    "EventName" : "Asia Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
-    "Toast" : "Please Unmute the Channel"
-    },      {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/b.html",
-    "EventName" : "Asia Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-        {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ten-sports/a.html",
-    "EventName" : "Asia Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-    },  {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-1/b.html",
-    "EventName" : "Asia Cup",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/a",
+    "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
-  },   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/star-sports/b.html",
-    "EventName" : "Asia Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
-    "Toast" : "Please Unmute the Channel"
-    }, 
+  },
         {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/willow/a.html",
-    "EventName" : "Asia Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/ten-sports/a",
+    "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
-    }
+  },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/a-sports/a",
+    "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+   
   ]
 }
