@@ -1,39 +1,7 @@
 {
    
    "Asia Cup 2023" :[
-        {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/videoembed/6392915959321?autoplay=1",
-    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-            "EventName" : "Asia Cup",
-           "Browser" : "1",
-    "Toast" : "Please Unmute the Channel"
-           
-  },
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/videoembed/6408772328985?autoplay=1",
-    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
-      "EventName" : "Asia Cup",
-      "Browser" : "1",
-    "Toast" : "Please Unmute the Channel"
-  },
-        {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/videoembed/6400133439001?autoplay=1",
-    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
-           "EventName" : "Asia Cup",
-           "Browser" : "1",
-    "Toast" : "Please Unmute the Channel"
-  },
-              {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/videoembed/6392798584345?autoplay=1",
-    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
-                 "EventName" : "Asia Cup",
-                 "Browser" : "1",
-    "Toast" : "Please Unmute the Channel"
-  },
+
         {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
