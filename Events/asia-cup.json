@@ -26,15 +26,7 @@
            "Browser" : "1",
     "Toast" : "Please Unmute the Channel"
   },
-              {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/videoembed/6392798584345?autoplay=1",
-    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
-                 "EventName" : "Asia Cup",
-                 "Browser" : "1",
-    "Toast" : "Please Unmute the Channel"
-  },
-        {
+      {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
     "Browser" : "1",
