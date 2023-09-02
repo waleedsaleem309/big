@@ -2,14 +2,7 @@
    
    "Asia Cup 2023" :[
 
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/videoembed/6419049094681?autoplay=1",
-    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
-      "EventName" : "Asia Cup",
-      "Browser" : "1",
-    "Toast" : "Please Unmute the Channel"
-  },
+
         {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://ok.ru/videoembed/6419089727001?autoplay=1",
