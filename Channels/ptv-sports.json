@@ -1,6 +1,13 @@
 {
      "PTV Sports" :[
-  {
+   {
+  "ChannelName" : "Source ",
+  "ChannelUrl" : "https://ok.ru/videoembed/6433658052121?autoplay=1",
+  "EventName" : "PTV Sports",
+  "Browser" : "1",
+  "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+  "Toast" : "Please Unmute the Channel"
+}, {
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
   "EventName" : "PTV Sports",
