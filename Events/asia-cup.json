@@ -41,14 +41,6 @@
            "EventName" : "Asia Cup",
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
-        {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/a-sports/a",
-    "Browser" : "1",
-           "EventName" : "Asia Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
-    "Toast" : "Please Unmute the Channel"
   }
    
   ]
