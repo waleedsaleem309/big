@@ -1,7 +1,14 @@
 {
    
    "Asia Cup 2023" :[
- 
+    {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://live-gke17oc4.rmbl.ws/slot-106/nz6j-cxzc_720p/chunklist_DVR.m3u8",
+    "Browser" : "1",
+           "EventName" : "Asia Cup",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
 
       
       {
