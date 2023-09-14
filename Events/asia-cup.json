@@ -41,6 +41,14 @@
            "EventName" : "Asia Cup",
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
+  },
+       {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://crichdplayer.xyz/embed2.php?id=starsp",
+    "EventName" : "IPL",
+    "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
+    "Toast" : "Please Unmute the Channel"
   }
    
   ]
