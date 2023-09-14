@@ -3,22 +3,7 @@
    "Asia Cup 2023" :[
  
       
-        {
-    "ChannelName" : "HD",
-    "ChannelUrl" : "https://live-4gf18j5s.rmbl.ws/slot-127/4owy-8zwz_720p/chunklist_DVR.m3u8",
-    "Browser" : "1",
-           "EventName" : "Asia Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },     {
-    "ChannelName" : "SD",
-    "ChannelUrl" : "https://live-4gf18j5s.rmbl.ws/slot-127/4owy-8zwz_360p/chunklist_DVR.m3u8",
-    "Browser" : "1",
-           "EventName" : "Asia Cup",
-    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }, 
-      
+        
       
       
       
