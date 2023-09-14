@@ -18,6 +18,13 @@
            "EventName" : "Asia Cup",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
+  }, {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/a",
+    "EventName" : "IPL",
+    "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
+    "Toast" : "Please Unmute the Channel"
   },
         {
     "ChannelName" : "Source",
