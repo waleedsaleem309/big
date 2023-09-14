@@ -26,6 +26,14 @@
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
   },
+      {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/astro-cricket-b",
+    "EventName" : "IPL",
+    "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/astro-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
          {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://crichdplayer.xyz/embed2.php?id=ptvsp",
