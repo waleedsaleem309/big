@@ -5,7 +5,7 @@
       
         {
   "ChannelName" : "Source ",
-  "ChannelUrl" : "https://ok.ru/video/6458335567385",
+  "ChannelUrl" : "https://ok.ru/videoembed/6458335567385?autoplay=1",
   "EventName" : "PTV Sports",
   "Browser" : "1",
   "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
@@ -14,7 +14,7 @@
       
     {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/video/6458896621081",
+    "ChannelUrl" : "https://ok.ru/videoembed/6458896621081?autoplay=1",
     "Browser" : "1",
            "EventName" : "Asia Cup",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
