@@ -2,7 +2,7 @@
      "Ten Sports" :[
 {
     "ChannelName" : "Source",
-    "ChannelUrl" : "//iframe.crik.live/ten-sports/c",
+    "ChannelUrl" : "https://iframe.crik.live/ten-sports/c",
     "EventName" : "Ten Sports",
       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
@@ -10,7 +10,7 @@
   },
            {
     "ChannelName" : "Source",
-    "ChannelUrl" : "//crichdplayer.xyz/embed2.php?id=tensp",
+    "ChannelUrl" : "https://crichdplayer.xyz/embed2.php?id=tensp",
     "EventName" : "A Sports",
       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
