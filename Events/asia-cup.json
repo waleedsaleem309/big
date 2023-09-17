@@ -13,6 +13,15 @@
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   },   
+
+         {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://ok.ru/video/6458335567385?atuoplay=1",
+    "Browser" : "1",
+           "EventName" : "Asia Cup",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
       
       
       {
