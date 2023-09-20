@@ -19,7 +19,13 @@
   }
      ],
    "Star Sports Hindi" :[ 
- {
+  {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://ok.ru/videoembed/6465206165017?autoplay=1",
+    "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },{
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a",
     "EventName" : "IPL",
