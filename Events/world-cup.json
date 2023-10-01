@@ -7,6 +7,12 @@
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
   },
+         {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://www.youtube.com/watch?v=hKwhCuFhatI",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
     {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
