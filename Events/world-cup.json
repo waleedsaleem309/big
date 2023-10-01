@@ -1,0 +1,20 @@
+{
+   
+   "Women T20 World Cup" :[ 
+   
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a",
+    "EventName" : "Women T20 World Cup",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+       {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/b",
+    "EventName" : "Women T20 World Cup",
+    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+     ]
+}
