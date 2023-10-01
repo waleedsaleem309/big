@@ -16,6 +16,12 @@
   },
       {
     "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/a",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+      {
+    "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a",
     "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
