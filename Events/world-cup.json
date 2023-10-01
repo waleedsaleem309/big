@@ -2,7 +2,12 @@
    
    "World Cup" :[ 
    
-   {
+    {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
+    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },{
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a",
     "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
