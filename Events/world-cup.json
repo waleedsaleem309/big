@@ -3,13 +3,7 @@
    "World Cup" :[ 
      {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/videoembed/6550170312217?autoplay=1",
-    "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-      {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-114/o5jj-d47y_360p/chunklist_DVR.m3u8",
+    "ChannelUrl" : "https://ok.ru/videoembed/6545978891801?autoplay=1",
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
   },
