@@ -36,12 +36,6 @@
     "ChannelUrl" : "https://iframe.crik.live/willow/a",
     "ImageUrl" : "https://assets.crik.live/Channels/willow.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
-       {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://crichdplayer.xyz/embed2.php?id=skysp2",
-    "ImageUrl" : "https://assets.crik.live/Channels/sky-cricket.jpg",
-    "Toast" : "Please Unmute the Channel"
   }
      ]
 }
