@@ -1,13 +1,6 @@
 {
      "PTV Sports" :[
-             {
-  "ChannelName" : "Source ",
-  "ChannelUrl" : "https://ddy5.hlsjs.ru/ddy5/premium450/index.m3u8",
-  "EventName" : "PTV Sports",
-  "Browser" : "1",
-  "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
-  "Toast" : "Please Unmute the Channel"
-},
+
           {
   "ChannelName" : "Source ",
   "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
