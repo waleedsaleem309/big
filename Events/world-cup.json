@@ -1,7 +1,13 @@
 {
    
    "World Cup" :[ 
-
+    {
+    "ChannelName" : "Source",
+          "Browser" : "1",
+    "ChannelUrl" : "https://ok.ru/videoembed/6630512467481?autoplay=1",
+    "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
     {
     "ChannelName" : "Source",
         "Browser" : "1",
