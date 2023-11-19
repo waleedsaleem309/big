@@ -4,24 +4,28 @@
 
     {
     "ChannelName" : "Source",
+        "Browser" : "1",
     "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a",
     "ImageUrl" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
   }, 
       {
     "ChannelName" : "Source",
+          "Browser" : "1",
     "ChannelUrl" : "https://iframe.crik.live/a-sports/a",
     "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
     "Toast" : "Please Unmute the Channel"
   },
       {
     "ChannelName" : "Source",
+          "Browser" : "1",
     "ChannelUrl" : "https://iframe.crik.live/star-1/a",
     "ImageUrl" : "https://assets.crik.live/Channels/star-hindi.jpg",
     "Toast" : "Please Unmute the Channel"
   },
        {
     "ChannelName" : "Source",
+           "Browser" : "1",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/a",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
