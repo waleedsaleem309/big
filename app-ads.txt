@@ -1,5 +1,6 @@
 google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0
 Mahimeta
+d-sail.com, mahimeta_1150, DIRECT
 auxoads.com, YXV4b19VTklRQDMwNjIwMjFfMTAyNjU1, DIRECT
 google.com, pub-5413329544040947, DIRECT, f08c47fec0942fa0
 google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
