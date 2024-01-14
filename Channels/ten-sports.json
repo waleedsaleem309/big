@@ -1,14 +1,6 @@
 {
      "Ten Sports" :[
-{
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://ok.ru/videoembed/6737933245977?autoplay=1",
-    "EventName" : "IPL",
-    "Browser" : "1",
-    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-          {
+   {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/ten-sports/c",
     "EventName" : "Ten Sports",
