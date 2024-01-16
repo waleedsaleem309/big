@@ -7,14 +7,6 @@
       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
-           {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://crichdplayer.xyz/embed2.php?id=tensp",
-    "EventName" : "A Sports",
-      "Browser" : "1",
-    "ImageUrl" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
-    "Toast" : "Please Unmute the Channel"
   }
 ]
 }
