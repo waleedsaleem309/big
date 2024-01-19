@@ -1,0 +1,12 @@
+{
+     "SuperSport Cricket" :[
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/ten-sports/c",
+    "EventName" : "Ten Sports",
+      "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  }
+]
+}
