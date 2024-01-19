@@ -2,8 +2,16 @@
      "SuperSport Cricket" :[
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/ten-sports/c",
-    "EventName" : "Ten Sports",
+    "ChannelUrl" : "https://iframe.crik.live/super-cricket/a",
+    "EventName" : "SuperSport Cricket",
+      "Browser" : "1",
+    "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+             {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://crichdplayer.xyz/embed2.php?id=osncric",
+    "EventName" : "SuperSport Cricket",
       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
     "Toast" : "Please Unmute the Channel"
