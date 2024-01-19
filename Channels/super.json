@@ -2,7 +2,7 @@
      "SuperSport Cricket" :[
    {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/super-cricket/a",
+    "ChannelUrl" : "//iframe.crik.live/super-cricket/a",
     "EventName" : "SuperSport Cricket",
       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
@@ -10,7 +10,7 @@
   },
              {
     "ChannelName" : "Source",
-    "ChannelUrl" : "https://crichdplayer.xyz/embed2.php?id=osncric",
+    "ChannelUrl" : "//crichdplayer.xyz/embed2.php?id=osncric",
     "EventName" : "SuperSport Cricket",
       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/super-cricket.jpg",
