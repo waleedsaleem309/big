@@ -15,13 +15,6 @@
       "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
     "Toast" : "Please Unmute the Channel"
-  }  ,  {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://crichdplayer.xyz/embed2.php?id=asports",
-    "EventName" : "A Sports",
-      "Browser" : "1",
-    "ImageUrl" : "https://assets.crik.live/Channels/a-sports.jpg",
-    "Toast" : "Please Unmute the Channel"
-  }
+  } 
 ]
 }
