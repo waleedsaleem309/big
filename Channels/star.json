@@ -8,14 +8,6 @@
     "Browser" : "1",
     "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
     "Toast" : "Please Unmute the Channel"
-  },
-           {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "http://crichdplayer.xyz/embed2.php?id=starsp&q=Star%20Sports%201",
-    "EventName" : "IPL",
-    "Browser" : "1",
-    "ImageUrl" : "https://assets.crik.live/Channels/star.jpg",
-    "Toast" : "Please Unmute the Channel"
   }
      ],
    "Star Sports Hindi" :[ 
