@@ -1,3 +1,8 @@
+// Bidscube
+
+#Ads.txt com.abrish.star.sports.cricket
+ssp.bidscube.com, 1209, DIRECT
+
 google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0
 Mahimeta
 auxoads.com, YXV4b19VTklRQDMwNjIwMjFfMTAyNjU1, DIRECT
