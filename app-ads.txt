@@ -233,6 +233,11 @@ adingo.jp, 30201, RESELLER
 
 
 
+//bidscube
+#Ads.txt com.abrish.star.sports.cricket
+
+ssp.bidscube.com, 1209, DIRECT
+
 //Yandex
 
 yandex.com, 94494082, DIRECT
