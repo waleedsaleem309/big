@@ -1,3 +1,15 @@
+//SmartAds
+
+smartyads.com, 19382, DIRECT, fd2bde0ff2e62c5d
+adform.com, 2795, RESELLER
+loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
+conversantmedia.com, 100264, RESELLER, 03113cd04947736d
+contextweb.com, 562867, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 3563866356, DIRECT
+improvedigital.com, 2345, DIRECT
+
+
 //MahiMeta
 
 google.com, pub-2205121062140812, RESELLER, f08c47fec0942fa0
