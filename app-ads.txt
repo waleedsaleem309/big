@@ -1,4 +1,4 @@
-//SmartAds
+//SmartyAds
 
 smartyads.com, 19382, DIRECT, fd2bde0ff2e62c5d
 adform.com, 2795, RESELLER
