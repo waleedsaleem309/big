@@ -243,6 +243,8 @@ video.unrulymedia.com, 115018688080045007, RESELLER
 #fluckt
 adingo.jp, 30201, RESELLER
 
+//Admob
+google.com, pub-8341943040015360, DIRECT, f08c47fec0942fa0
 
 
 //bidscube
