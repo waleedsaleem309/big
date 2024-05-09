@@ -1,3 +1,7 @@
+# AdManager Account
+google.com, pub-1293861364181835, DIRECT, f08c47fec0942fa0
+
+
 //NAWAB
 
 google.com, pub-6446710992107809, DIRECT, f08c47fec0942fa0
