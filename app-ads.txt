@@ -1,15 +1,6 @@
 # AdManager Account
 google.com, pub-1293861364181835, DIRECT, f08c47fec0942fa0
 
-
-//NAWAB
-
-google.com, pub-6446710992107809, DIRECT, f08c47fec0942fa0
-
-//Bilal
-
-google.com, pub-8149537101716233, DIRECT, f08c47fec0942fa0
-
 //Adtiming
 adtiming.com, 3540, DIRECT, bf66753b8f380142
 loopme.com, 11296, RESELLER, 6c8d5f95897a5a3b
