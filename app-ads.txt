@@ -1,5 +1,6 @@
 # Bi AdManager Account
 google.com, pub-8005027733717563, DIRECT, f08c47fec0942fa0
+google.com, pub-3406438852272831, DIRECT, f08c47fec0942fa0
 # AdManager Account
 google.com, pub-1293861364181835, DIRECT, f08c47fec0942fa0
 
